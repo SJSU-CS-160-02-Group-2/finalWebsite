@@ -8,10 +8,16 @@
 </style>
 
 <?php
+
+function outputSimilarResults($result)
+{
+	
+	       
+          
+	//$counter=0;
+		//$counter = $counter+1;
   //$to_be_recovered_name=$_POST['searchname'];
   //$sql = "SELECT * FROM education where title ='$to_be_recovered_name'";
-  $sql = "SELECT * FROM education";
-  $result = mysqli_query($conn, $sql);
   //$counter = 0;
   //print $counter;
   if ($result)
@@ -35,4 +41,5 @@
         }
         mysqli_free_result($result);
       }
+}
 ?>

@@ -1,6 +1,7 @@
 <?php
     include("dbconnect.php");
     include("displayResults.php");
+	include("similarResults.php");
 ?>
 <style>
 <?php include ("main.css");
@@ -143,40 +144,45 @@
     </div>
     <!--for the actualsearch results-->
     <div class="secondPart row">
-      <div class="col-md-1" id="extraCol" > </div>
-      <div class="col-md-9" id="results">
-        <div class="row">
-          <div class="col-md-12">
-            <h2 class="text-center" id="main">SEARCH RESULTS</h2>
-          </div>
-        </div>
-        <div class="row">
-          <?php
+    <div class="col-md-1" id="extraCol" > </div>
+    <div class="col-md-9" id="results">
+    <div class="row">
+      <div class="col-md-12">
+        <h2 class="text-center" id="main">SEARCH RESULTS</h2>
+      </div>
+    </div>
+    <div class="row">
+      <?php
   $to_be_recovered_name=$_POST['searchname'];
-  $sql="";
+  //Mike changes code here to get search by grade level working.
+  //Gavin changes code here to get search by grade level working.
   if(empty($to_be_recovered_name))
   {
 	  $result = mysqli_query($conn,"SELECT * FROM education");
   }
   else
   {
+	  //Nick changes something here to get regex working.
 	  $result = mysqli_query($conn, "SELECT * FROM education WHERE (category LIKE '%$to_be_recovered_name%') OR (title LIKE '%$to_be_recovered_name%')");
   }
+  //Change the following to get similar features working properly-Alvin
+  $similarResults =  mysqli_query($conn, "SELECT * FROM education WHERE (category LIKE '%$to_be_recovered_name%') OR (title LIKE '%$to_be_recovered_name%')");
   output($result);
-
-?>
-        </div>
+   print "</div>
       </div>
-      <div class="col-md-2" id="similarResults" >
-        <div class="row"> 
-          <div class="col-md-12">
-            <h2 id="head">SIMILAR RESULTS</h2>
+      <div class=col-md-2 id=similarResults >
+        <div class=row> 
+          <div class=col-md-12>
+            <h2 id=head>SIMILAR RESULTS</h2>
           </div>
         </div>
-        <div class="row">
-          <?php include("similarResults.php");?>
+        <div class=row>";
+  outputSimilarResults($similarResults);
+  	  print "
         </div>
-      </div>
+      </div>";
+
+?>
     </div>
   </form>
 </div>
