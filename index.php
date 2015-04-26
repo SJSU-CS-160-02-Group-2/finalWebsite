@@ -43,7 +43,7 @@
           <div class="row">
             <div class="col-md-2"></div>
             <div class="col-md-8">
-              <input type="text" name=searchname placeholder="Type any activity title" id="searchBar">
+              <input type="text" name=searchname placeholder="Type any activity title or subject" id="searchBar">
               <input type="submit" name=searchButton value="S" id="searchButton" >
             </div>
             <div class="col-md-2"></div>
@@ -160,7 +160,7 @@
   }
   else
   {
-	  $result = mysqli_query($conn, "SELECT * FROM education WHERE title LIKE '%$to_be_recovered_name%'");
+	  $result = mysqli_query($conn, "SELECT * FROM education WHERE (category LIKE '%$to_be_recovered_name%') OR (title LIKE '%$to_be_recovered_name%')");
   }
   output($result);
 

@@ -5,10 +5,12 @@
 
 function output($result)
 {
+$counter = 0;
   if ($result)
-  {
+  {	
         while ($row = mysqli_fetch_array($result) )
         {
+		$counter = $counter+1;
         	$title =  $row["title"];
 	    	$temp = $row["lesson_link"];
 		$link = $row["lesson_image"];
@@ -18,9 +20,12 @@ function output($result)
 		</div>
         ";
         }
+	if($counter==0){
+		print "<p id=main> We do not have any activities with this title.</p>";
+	}
         mysqli_free_result($result);
-      }
-	else{
+   }
+   else{
 		print "<p id=main> We do not have any activities with this title.</p>";
 	}
 	
