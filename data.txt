@@ -1,0 +1,1278 @@
+Conic Flyer
+Manipulate different types of conic section equations on a coordinate plane using slider bars. Learn how each constant and coefficient affects the resulting graph. Choose from vertical or horizontal parabola, circle, ellipse, and vertical or horizontal hyperbola.
+http://www.shodor.org/interactivate/activities/ConicFlyer/
+http://www.shodor.org/media/Z/T/k/0ZjZkNTRhNmU5N2MwZTRjZWI1N2YyNWI5OWFlNmY.gif
+graphs,algebra,geometry
+9,10,11,12,
+Shodor Education Foundation, Inc.
+interactive lesson
+2015-04-22T23:55Z
+Two Variable Function Pump
+Enter two complex numbers (z and c) as ordered pairs of real numbers, then click a button to iterate step by step. The iterates are graphed in the x-y plane and printed out in table form. This is an introduction to the idea of prisoners/escapees in iterated functions and the calculation of fractal Julia sets.
+http://www.shodor.org/interactivate/activities/TwoVariableFunction/
+http://www.shodor.org/media/N/T/E/3MjdmNDg3YWZkNWQwNjkyZGNlNDY2NTcwMDA4Y2M.gif
+number and operations,graphs,algebra,geometry
+6,7,8,9,10,11,12,
+Shodor Education Foundation, Inc.
+interactive lesson
+2015-04-22T23:55Z
+Caesar Cipher III
+Decode encrypted messages to determine the form for an affine cipher, and practice your reasoning and arithmetic skills. Input your guesses for the multiplier and constant. Caesar Cipher III is one of the Interactivate assessment explorers.
+http://www.shodor.org/interactivate/activities/CaesarCipherThree/
+http://www.shodor.org/media/M/D/I/yNDk0NTI4ZmM0MDc5MGVmNzJhOTM4N2IyMjM1ZTk.gif
+discrete,number and operations,algebra
+6,7,8,9,10,11,12,
+Shodor Education Foundation, Inc.
+interactive lesson
+2015-04-22T23:55Z
+Rabbits and Wolves
+Experiment with a simple ecosystem consisting of grass, rabbits, and wolves, learning about probabilities, chaos, and simulation.
+http://www.shodor.org/interactivate/activities/RabbitsAndWolves/
+http://www.shodor.org/media/Y/W/I/yYjVkNmQ1MzdkMTU2MDA3ZGI3OWI2NWNlMjAxYTA.gif
+graphs,modeling,probability,calculus,statistics
+3,4,5,6,7,8,9,10,11,12,
+Shodor Education Foundation, Inc.
+interactive lesson
+2015-04-22T23:55Z
+Algebra Four
+Students play a generalized version of connect four, gaining the chance to place a piece on the board by solving an algebraic equation. Parameters: Level of difficulty of equations to solve and type of problem. Algebra Four is one of the Interactivate assessment games.
+http://www.shodor.org/interactivate/activities/AlgebraFour/
+http://www.shodor.org/media/N/2/R/mYTRjMWQ3NmE1ZjFjZjQ1Y2M4ZjgzNzY1NjhlZTk.gif
+algebra
+6,7,8,9,10,11,12,
+Shodor Education Foundation, Inc.
+interactive lesson
+2015-04-22T23:55Z
+Surface Area and Volume
+Manipulate dimensions of polyhedra, and watch how the surface area and volume change. Parameters: Type of polyhedron, length, width and height. Surface Area and Volume one of the Interactivate assessment explorers.
+http://www.shodor.org/interactivate/activities/SurfaceAreaAndVolume/
+http://www.shodor.org/media/M/W/Q/yNzIxNmNiYzFiZWNmMjQ1YWQ2YTJlOWQ1NjA2NjU.gif
+geometry
+3,4,5,6,7,8,9,10,11,12,
+Shodor Education Foundation, Inc.
+interactive lesson
+2015-04-22T23:55Z
+Stopwatch
+Functions like a real stopwatch, recording times that you choose. This stopwatch is accurate to the nearest tenth of a second. Parameters: Count up from 0 or count down from a set time.
+http://www.shodor.org/interactivate/activities/Stopwatch/
+http://www.shodor.org/media/Y/m/Q/wODA0NjY5Y2Q3ZjkzMTRkODM3NGRlMDNkY2FkZDE.gif
+geometry
+3,4,5,6,7,8,9,10,11,12,
+Shodor Education Foundation, Inc.
+interactive lesson
+2015-04-22T23:55Z
+Simple Monty Hall
+Choose one of three doors to experimentally determine the odds of winning the grand prize behind one of the doors, as in the TV program "Let''s Make a Deal." Parameters: Staying or switching between the two remaining doors.
+http://www.shodor.org/interactivate/activities/SimpleMontyHall/
+http://www.shodor.org/media/N/T/J/iYzAyYzEyYzkzN2NkY2E0MDFiMTY5NzkzODZjODA.gif
+discrete,probability
+6,7,8,9,10,11,12,
+Shodor Education Foundation, Inc.
+interactive lesson
+2015-04-22T23:55Z
+Julia Sets
+Enter a complex value for "c" in the form of an ordered pair of real numbers. The applet draws the fractal Julia set for that seed value.
+http://www.shodor.org/interactivate/activities/JuliaSets/
+http://www.shodor.org/media/Y/W/I/xMzVhZWE3NWM1MTRiMTllYjMxNzFhN2FkODNlNTc.gif
+discrete,number and operations,geometry,fractions
+6,7,8,9,10,11,12,
+Shodor Education Foundation, Inc.
+interactive lesson
+2015-04-22T23:55Z
+A Better Fire!!
+Students run a simulation of how a fire will spread through a stand of trees, learning about probability and chaos. Parameters: Forest density, wind direction, size of forest.
+http://www.shodor.org/interactivate/activities/ABetterFire/
+http://www.shodor.org/media/N/z/c/xOWQ5NDViYTBiMWM4MzMxN2NjY2MwNTUxZjc3ODY.gif
+discrete,modeling,probability,fractions
+6,7,8,9,10,11,12,
+Shodor Education Foundation, Inc.
+interactive lesson
+2015-04-22T23:55Z
+Converter
+Converts fractions to decimals and decimals to fractions. Observe the relationships between fractions and decimals.
+http://www.shodor.org/interactivate/activities/Converter/
+http://www.shodor.org/media/M/W/J/jMTYxNGY4NjFjY2RlMTE3ZTZmM2ZiMDQ1YjA1MzQ.gif
+number and operations,fractions
+3,4,5,6,7,8,9,10,11,12,
+Shodor Education Foundation, Inc.
+interactive lesson
+2015-04-22T23:55Z
+Algebra Quiz
+Test your algebra skills by answering questions. This quiz asks you to solve algebraic linear and quadratic equations of one variable. Choose difficulty level, question types, and time limit. Algebra Quiz is one of the Interactivate assessment quizzes.
+http://www.shodor.org/interactivate/activities/AlgebraQuiz/
+http://www.shodor.org/media/N/T/Q/4ODgxZTJhYjJiY2E3ZjI2MjExN2I0ZjEzM2NjMDQ.gif
+algebra
+6,7,8,9,10,11,12,
+Shodor Education Foundation, Inc.
+interactive lesson
+2015-04-22T23:55Z
+Perimeter Explorer
+Learn the relationship between perimeter and area. A shape will be automatically generated with the area that you choose. Calculate the perimeter of this shape. Perimeter Explorer is one of the Interactivate assessment explorers.
+http://www.shodor.org/interactivate/activities/PerimeterExplorer/
+http://www.shodor.org/media/Y/j/Q/xN2YyOWIzMTM2ZTU0ODA2N2VlNWE0NWMxYTE0ZjM.gif
+geometry
+8,3,4,5,6,7,
+Shodor Education Foundation, Inc.
+interactive lesson
+2015-04-22T23:55Z
+Generalized Monty Hall
+Run a simulation to generate results from running the Monty Hall for multiple trials. This is similar to the game show "Let''s Make A Deal", where you choose one of N doors in hopes of finding a grand prize behind one of the doors. Parameters: Number of doors, number of trials, staying, or switching between the two remaining doors.
+http://www.shodor.org/interactivate/activities/GeneralizedMontyHall/
+http://www.shodor.org/media/O/W/E/5YmZjNjRlYjc2NDAzYzI5YmVhNDM0NjUyYzE5MTc.gif
+discrete,modeling,probability
+6,7,8,9,10,11,12,
+Shodor Education Foundation, Inc.
+interactive lesson
+2015-04-22T23:55Z
+Order of Operations Four
+Students play a generalized version of connect four, gaining the chance to place a piece on the board by answering order of operations questions (addition/subtraction, multiplication/division, exponents, and parentheses). Parameters: time, difficulty level, types of questions. Order of Operations Four is one of the Interactivate assessment games.
+http://www.shodor.org/interactivate/activities/OrderOfOperationsFou/
+http://www.shodor.org/media/N/D/Q/4ZDc4ZDhjM2IyN2Q2NGRlMjZjMGVmZGZkODY4Yjk.gif
+number and operations
+3,4,5,6,7,8,9,10,11,12,
+Shodor Education Foundation, Inc.
+interactive lesson
+2015-04-22T23:55Z
+Measures
+Enter data and view the mean, median, variance, and standard deviation of the data set. Parameters: Number of observations, range for observations, which statistics to view, identifiers for the data.
+http://www.shodor.org/interactivate/activities/Measures/
+http://www.shodor.org/media/N/W/Y/zNDQyMDc3MDFmOWFjMTJiMWVkNjdkMzQ5ZWQwNTQ.gif
+statistics
+3,4,5,6,7,8,9,10,11,12,
+Shodor Education Foundation, Inc.
+interactive lesson
+2015-04-22T23:55Z
+Bar Graph Sorter
+Sort colored shapes into a bar graph. Practice sorting by shape or by color. Appropriate for elementary grades. Bar Graph Sorter is one of the Interactivate assessment explorers.
+http://www.shodor.org/interactivate/activities/BarGraphSorter/
+http://www.shodor.org/media/Z/m/E/5NWM3MmQ4MDEzMTE4NWYwYjZmZTExM2FjMDUzZDE.gif
+graphs,geometry,statistics
+8,3,4,5,6,7,
+Shodor Education Foundation, Inc.
+interactive lesson
+2015-04-22T23:55Z
+Advanced Fire
+Run a simulation of how a fire spreads through a stand of trees, learning about probability and chaos. Track the results of multiple burns and use the data to draw conclusions.
+http://www.shodor.org/interactivate/activities/AdvancedFire/
+http://www.shodor.org/media/Z/T/E/yODVjNmUxN2VhODU1NTg2N2M0MGIxNzRmNTQ3YjE.gif
+modeling,probability,statistics
+6,7,8,9,10,11,12,
+Shodor Education Foundation, Inc.
+interactive lesson
+2015-04-22T23:55Z
+Tortoise and Hare Race
+Step through the tortoise and hare race, based on Zeno''s paradox, to learn about the multiplication of fractions and about convergence of an infinite sequence of numbers.
+http://www.shodor.org/interactivate/activities/Tortoise/
+http://www.shodor.org/media/Z/G/Q/2N2M5ZTVkZjQ4MDJmNDZjZGU2Yjk5YTMzYTZhYzE.gif
+discrete,number and operations
+8,3,4,5,6,7,
+Shodor Education Foundation, Inc.
+interactive lesson
+2015-04-22T23:55Z
+Fractal Dimensions
+Determine the fractal dimensions of several line-deformation fractals. Input the scale factor and number of similar copies, and the dimension will be calculated. Fractal Dimensions is one of the Interactivate assessment explorers.
+http://www.shodor.org/interactivate/activities/FractalDimensions/
+http://www.shodor.org/media/N/j/N/hZDQ4MzBkMmY2MWM2MTdhYWFlOGYzMGIxZDI4MjA.gif
+discrete,number and operations,geometry
+6,7,8,9,10,11,12,
+Shodor Education Foundation, Inc.
+interactive lesson
+2015-04-22T23:55Z
+Bar Graph
+Enter data to create a bar graph, then change many settings for the graph''s appearance.
+http://www.shodor.org/interactivate/activities/BarGraph/
+http://www.shodor.org/media/N/z/h/hNWQ4OTBiY2ZjNTU4MGRmNTUxMDk4YTZjMWEwYmI.gif
+graphs,statistics
+3,4,5,6,7,8,9,10,11,12,
+Shodor Education Foundation, Inc.
+interactive lesson
+2015-04-22T23:55Z
+Estimator
+Practice estimation skills by determining the number of objects, the length of a line, or the area of a shape. Parameters: error tolerance of estimate. Estimator is one of the Interactivate assessment explorers.
+http://www.shodor.org/interactivate/activities/Estimator/
+http://www.shodor.org/media/O/D/U/0Yzk2YWEwMTdlMmM3MjBlZWM2OGVkZDRiYWQ4Zjk.gif
+number and operations
+3,4,5,6,7,8,9,10,11,12,
+Shodor Education Foundation, Inc.
+interactive lesson
+2015-04-22T23:55Z
+Derivate
+View the graph and the equation of the line tangent to any function at any point on the function.
+http://www.shodor.org/interactivate/activities/Derivate/
+http://www.shodor.org/media/M/D/k/zYjYxMTE1NDM3ZjVkZGY2MDZjZGYyYjE3ZDBlYjQ.gif
+algebra,calculus
+9,10,11,12,
+Shodor Education Foundation, Inc.
+interactive lesson
+2015-04-22T23:55Z
+Overlapping Gaussians
+In this applet you can adjust the parameters on two Gaussian curves to determine if there is a possibility of a difference between the two means.
+http://www.shodor.org/interactivate/activities/OverlappingGaussians/
+http://www.shodor.org/media/Y/2/I/4Y2IxZWQzZjU2MTAwNThjYTk5YTAyMTliYTM3NjI.png
+probability,statistics
+9,10,11,12,
+Shodor Education Foundation, Inc.
+interactive lesson
+2015-04-22T23:55Z
+Racing Game with One Die
+Simulate a game where two players each roll a die, and the lucky player moves one step to the finish. Parameters: what rolls win and how many steps to the finish line.
+http://www.shodor.org/interactivate/activities/RacingGameWithOneDie/
+http://www.shodor.org/media/N/j/N/kNjY0OTQ2YTM1ZDUzMGM1NmQxYjFhMmY5Y2YwZjg.gif
+discrete,probability
+3,4,5,6,7,8,9,10,11,12,
+Shodor Education Foundation, Inc.
+interactive lesson
+2015-04-22T23:55Z
+Floor Tiles
+Build a "floor tile" by dragging the corners of a quadrilateral. Learn about tessellation of quadrilateral figures when the shape you built is tiled over an area.
+http://www.shodor.org/interactivate/activities/FloorTiles/
+http://www.shodor.org/media/O/D/N/mNjkxYTViZGI2MTlmY2E3NDA3ZDhiZDkyZWVkOGQ.gif
+geometry
+3,4,5,6,7,8,9,10,11,12,
+Shodor Education Foundation, Inc.
+interactive lesson
+2015-04-22T23:55Z
+More or Less Estimator
+Practice estimation skills by determining whether the number of objects, the length of a line, or the area of a shape is more or less than the number given. Parameters: error tolerance of estimate. More or Less Estimator is one of the Interactivate assessment explorers.
+http://www.shodor.org/interactivate/activities/MoreOrLessEstimator/
+http://www.shodor.org/media/Y/z/A/xMGY4M2MwZmQ4YjE0YjZkMGU4NmYzNTEzMmNiNzk.gif
+number and operations
+3,4,5,6,7,8,9,10,11,12,
+Shodor Education Foundation, Inc.
+interactive lesson
+2015-04-22T23:55Z
+Buffon''s Needle
+Experiment with a simulation to get an approximation of Pi by dropping a needle on a lined sheet of paper.
+http://www.shodor.org/interactivate/activities/Buffon/
+http://www.shodor.org/media/O/D/M/zN2UwOTI1Mzc3MGFhYThlZTJjZTQxMjI5NDJjZTc.gif
+discrete,probability,statistics
+6,7,8,9,10,11,12,
+Shodor Education Foundation, Inc.
+interactive lesson
+2015-04-22T23:55Z
+Single Fraction Pointer
+Determine the value of a given fraction represented as a point on a number line. Then find a fraction whose value is the given fraction using an arrow on the number line as a guide. Single Fraction Pointer is one of the Interactivate assessment explorers.
+http://www.shodor.org/interactivate/activities/SingleFractionPoint/
+http://www.shodor.org/media/N/D/g/1ZTgzZDE3Nzg5MzRiMjIwNmUwZGNiNmU4NWZmODM.gif
+number and operations,fractions
+8,3,4,5,6,7,
+Shodor Education Foundation, Inc.
+interactive lesson
+2015-04-22T23:55Z
+Linear Function Machine
+Students investigate linear functions by trying to guess the slope and intercept from inputs and outputs. Linear Function Machine is one of the Interactivate assessment explorers.
+http://www.shodor.org/interactivate/activities/LinearFunctMachine/
+http://www.shodor.org/media/M/T/E/5NjcyZTM3ZGEzZGYwZjhhOTJiNGQ1ZDg2MDNhODY.gif
+discrete,algebra
+6,7,8,9,10,11,12,
+Shodor Education Foundation, Inc.
+interactive lesson
+2015-04-22T23:55Z
+Estimator Quiz
+Test your estimation skills by answering questions. This quiz asks you to estimate the answer to addition, multiplication, and percentage questions. Choose difficulty level, question types, and time. Estimator Quiz is one of the Interactivate assessment quizzes.
+http://www.shodor.org/interactivate/activities/EstimatorQuiz/
+http://www.shodor.org/media/M/z/U/3OWNkOTcyYzkyMGUxY2YzZGYwZTdiZTc0MjhhY2Q.gif
+number and operations
+3,4,5,6,7,8,9,10,11,12,
+Shodor Education Foundation, Inc.
+interactive lesson
+2015-04-22T23:55Z
+Simple Maze Game
+Investigate the first quardant of the Cartesian coordinate system by directing a robot through a mine field laid out on the grid. Simple Maze Game is one of the Interactivate assessment explorers.
+http://www.shodor.org/interactivate/activities/SimpleMazeGame/
+http://www.shodor.org/media/M/G/Q/0ZmU0NzA1YTM5MWFhMjdiYmE1YTdlZDJhM2U3Mjg.gif
+graphs,algebra,geometry
+8,3,4,5,6,7,
+Shodor Education Foundation, Inc.
+interactive lesson
+2015-04-22T23:55Z
+Factorize 2
+Visualize factors through building rectangular areas on a grid. As you draw each factor set on the grid, the factors will be listed. Factorize 2 is one of the Interactivate assessment explorers.
+http://www.shodor.org/interactivate/activities/FactorizeTwo/
+http://www.shodor.org/media/Z/T/k/1OGZmZGJiZmUxYmY5MTJkY2MzOGUzMzI0MTFjNGM.gif
+discrete,number and operations,geometry,fractions
+3,4,5,6,7,8,9,10,11,12,
+Shodor Education Foundation, Inc.
+interactive lesson
+2015-04-22T23:55Z
+Shape Builder
+This activity operates in one of two modes: auto draw and create shape mode, allowing you to explore relationships between area and perimeter. Shape Builder is one of the Interactivate assessment explorers.
+http://www.shodor.org/interactivate/activities/ShapeBuilder/
+http://www.shodor.org/media/Y/m/U/2NzllMmYxMzYzMDMzNDRiNDc4MWUxYWFmM2JkNDQ.gif
+geometry
+8,3,4,5,6,7,
+Shodor Education Foundation, Inc.
+interactive lesson
+2015-04-22T23:55Z
+Squaring the Triangle
+Learn about how the Pythagorean Theorem works through investigating the standard geometric proof. Parameters: Sizes of the legs of the triangle.
+http://www.shodor.org/interactivate/activities/SquaringTheTriangle/
+http://www.shodor.org/media/M/G/E/zYWNiNGQ5ODA5YTUxNjZjODMzODZkZWZjODVlOTI.gif
+geometry
+6,7,8,9,10,11,12,
+Shodor Education Foundation, Inc.
+interactive lesson
+2015-04-22T23:55Z
+Histogram
+View histograms for built-in or user-specified data. Experiment with how the size of the class intervals influences the appearance of the histogram. Parameters: Data sets, class sizes.
+http://www.shodor.org/interactivate/activities/Histogram/
+http://www.shodor.org/media/N/z/Q/2YjFmMjdlMTQxNzIwMGRmN2FjY2E3YWE2Yjc4YTQ.gif
+graphs,statistics
+3,4,5,6,7,8,9,10,11,12,
+Shodor Education Foundation, Inc.
+interactive lesson
+2015-04-22T23:55Z
+Caesar Cipher II
+Encode and decode messages to determine the form for an affine cipher. Input a message to encode, then input your guesses for the constant and multiplier. Caesar Cipher II is one of the Interactivate assessment explorers.
+http://www.shodor.org/interactivate/activities/CaesarCipherTwo/
+http://www.shodor.org/media/Z/T/A/xMDYwZmE0MjNiMTdkNDM4YjAwMjk4MTliYzg4OWI.gif
+discrete,number and operations,algebra
+6,7,8,9,10,11,12,
+Shodor Education Foundation, Inc.
+interactive lesson
+2015-04-22T23:55Z
+Coin Toss
+Simulation of a coin toss allowing the user to input the number of flips. Toss results can be viewed as a list of individual outcomes, ratios, or table.
+http://www.shodor.org/interactivate/activities/Coin/
+http://www.shodor.org/media/Y/j/U/zOTU4MTkwMDFmMGE1OTQwOGFkOGEzZGIwNTFkYmQ.
+discrete,probability,fractions,statistics
+3,4,5,6,7,8,9,10,11,12,
+Shodor Education Foundation, Inc.
+interactive lesson
+2015-04-22T23:55Z
+Angles
+Practice your knowledge of acute, obtuse, and alternate angles. Also, practice relationships between angles - vertical, adjacent, alternate, same-side, and corresponding. Angles is one of the Interactivate assessment explorers.
+http://www.shodor.org/interactivate/activities/Angles/
+http://www.shodor.org/media/Z/D/k/0NGYwZjg2MTI0MTYwN2JmYzUxN2RjYjEyMmU2Y2Y.gif
+geometry
+3,4,5,6,7,8,9,10,11,12,
+Shodor Education Foundation, Inc.
+interactive lesson
+2015-04-22T23:55Z
+Vertical Line Test
+Learn about the vertical line test for functions by trying to connect points in the plane to build a function. When you have connected all of the points, you will be told if your graph is a valid graph of a function. Vertical Line Test is one of the Interactivate assessment explorers.
+http://www.shodor.org/interactivate/activities/VerticalLineTest/
+http://www.shodor.org/media/M/m/Q/4NTQ5ZGIxMzExNzMzNmUzNTM5NmE3NzlmMzMxNmY.gif
+discrete,graphs,algebra
+6,7,8,9,10,11,12,
+Shodor Education Foundation, Inc.
+interactive lesson
+2015-04-22T23:55Z
+Crazy Choices Game
+Compare theoretical and experimental probabilities, using dice, cards, spinners, or coin tosses. Three different probabilities can be compared at once. Parameters: Type of probabilities, number of trials.
+http://www.shodor.org/interactivate/activities/CrazyChoicesGame/
+http://www.shodor.org/media/M/m/R/jYzRiNGU0ZGJhNjZlMDAwYTcyNDUxM2Q2YmVmNmM.gif
+discrete,probability,fractions,statistics
+6,7,8,9,10,11,12,
+Shodor Education Foundation, Inc.
+interactive lesson
+2015-04-22T23:55Z
+Multiple Linear Regression
+Students compare multiple independent variables as predictors of one dependent variable. Students explore correlation and lines of best-fit.
+http://www.shodor.org/interactivate/activities/MultipleLinearRegression/
+http://www.shodor.org/media/Y/W/J/kNDY3NTczNTgxYjY4ZGNlNzIyZmY3MGUyNWRhYjA.gif
+modeling,algebra,statistics
+9,10,11,12,
+Shodor Education Foundation, Inc.
+interactive lesson
+2015-04-22T23:55Z
+Simple Coordinates Game
+Investigate the first quadrant of the Cartesian coordinate system through identifying the coordinates of randomly generated points, or requesting that a particular point be plotted. Simple Coordinates Game is one of the Interactivate assessment explorers.
+http://www.shodor.org/interactivate/activities/SimpleCoordinates/
+http://www.shodor.org/media/N/G/I/3NGFiOWRkYjRlZTMyMzM5M2FiMDUzZTYwNTI1NGQ.gif
+graphs,algebra,geometry
+8,3,4,5,6,7,
+Shodor Education Foundation, Inc.
+interactive lesson
+2015-04-22T23:55Z
+Multi-Function Data Flyer
+Enter a set of data points and a function or multiple functions, then manipulate those functions to fit those points. Manipulate the function on a coordinate plane using slider bars. Learn how each constant and coefficient affects the resulting graph.
+http://www.shodor.org/interactivate/activities/MultiFunctionDataFly/
+http://www.shodor.org/media/Z/j/l/jNzM4MGNlOTc3Y2ZhZDU1NzI1MGUzMzNiMDM5NmU.gif
+modeling,algebra,calculus,statistics
+6,7,8,9,10,11,12,
+Shodor Education Foundation, Inc.
+interactive lesson
+2015-04-22T23:55Z
+Graph Sketcher
+Students can create graphs of functions entered as algebraic expressions -- similar to a graphing calculator.
+http://www.shodor.org/interactivate/activities/GraphSketcher/
+http://www.shodor.org/media/N/2/N/iYTA2Nzc1YjM0NjMwYjY2Y2NhYzRjNjc5NjQwNTA.gif
+graphs,algebra,calculus
+6,7,8,9,10,11,12,
+Shodor Education Foundation, Inc.
+interactive lesson
+2015-04-22T23:55Z
+Triple Venn Diagram Shape Sorter
+Sort colored shapes into a three circle Venn Diagram.
+http://www.shodor.org/interactivate/activities/TripleVennDiagram/
+http://www.shodor.org/media/Y/m/F/lNzgzN2MwOGNlYWViYjFkNDcxZjY2YTljMDAwYzc.gif
+discrete,number and operations,geometry
+8,3,4,5,6,7,
+Shodor Education Foundation, Inc.
+interactive lesson
+2015-04-22T23:55Z
+Fraction Four
+Students play a generalized version of connect four, gaining the chance to place a piece after simplifying fractions, converting fractions to decimals and percentages, and answering algebra questions involving fractions. Choose difficulty level, question types, and time. Fraction Four is one of the Interactivate assessment games.
+http://www.shodor.org/interactivate/activities/FractionFour/
+http://www.shodor.org/media/Z/D/A/3NTY3OGQ0ZjEzZmExNDY4YzA3MGU0ZTc1Y2IyMjk.gif
+number and operations,algebra,fractions
+8,3,4,5,6,7,
+Shodor Education Foundation, Inc.
+interactive lesson
+2015-04-22T23:55Z
+Experimental Probability
+Experiment with probability using a fixed size section spinner, a variable section spinner, two regular 6-sided dice or customized dice.
+http://www.shodor.org/interactivate/activities/ExpProbability/
+http://www.shodor.org/media/M/j/l/mNDFjZjg2OGQzZTM1ODFhZjM4Zjk0MWU1Yjc3NDM.gif
+discrete,probability,statistics
+3,4,5,6,7,8,9,10,11,12,
+Shodor Education Foundation, Inc.
+interactive lesson
+2015-04-22T23:55Z
+Tessellate!
+Create a tessellation by deforming a triangle, rectangle or hexagon to form a polygon that tiles the plane. Corners of the polygons may be dragged, and corresponding edges of the polygons may be dragged. Parameters: Colors, starting polygon.
+http://www.shodor.org/interactivate/activities/Tessellate/
+http://www.shodor.org/media/N/j/F/iZjJiN2VmYjg3M2IzZTRlZjg4MTEwOGM1NGM1NGU.gif
+geometry
+3,4,5,6,7,8,9,10,11,12,
+Shodor Education Foundation, Inc.
+interactive lesson
+2015-04-22T23:55Z
+Cross Section Flyer
+Explore cross sections of different geometric solids: cone, double cone, cylinder, pyramid, and prism. Manipulate the cross section with slider bars, and see how the graphical representation changes.
+http://www.shodor.org/interactivate/activities/CrossSectionFlyer/
+http://www.shodor.org/media/Z/D/Q/2Yjg0Zjc5Zjg2ZmM0MTZiMTkzZWRjM2FlN2RjZDc.gif
+graphs,algebra,geometry,calculus
+9,10,11,12,
+Shodor Education Foundation, Inc.
+interactive lesson
+2015-04-22T23:55Z
+Elapsed Time
+Practice finding elapsed time given a starting time and an ending time. Elapsed Time is one of the Interactivate assessment explorers.
+http://www.shodor.org/interactivate/activities/ElapsedTime/
+http://www.shodor.org/media/Y/z/M/yOWJjOTgyMzM0NTI5N2Y3ZmVhZWJjYTRkODQyOTg.
+geometry
+8,3,4,5,6,7,
+Shodor Education Foundation, Inc.
+interactive lesson
+2015-04-22T23:55Z
+Possible or Not
+Review the properties of functions by looking at ten different curves and deciding whether or not they meet the criteria for a graph of a function. This activity simply displays the curves - it does not quiz the user.
+http://www.shodor.org/interactivate/activities/PossibleOrNot/
+http://www.shodor.org/media/N/G/Q/zZDViNjgwZWFiY2RmMDVhYTFkYzIzYjIwMGJkYjg.gif
+discrete,algebra
+6,7,8,9,10,11,12,
+Shodor Education Foundation, Inc.
+interactive lesson
+2015-04-22T23:55Z
+Clock Wise
+Practice reading a clock, input times for the clock to display, or let the clock generate random times for you to read. Choose from three difficulty levels. Clock Wise is one of the Interactivate assessment explorers.
+http://www.shodor.org/interactivate/activities/ClockWise/
+http://www.shodor.org/media/M/G/I/zYTkyMTUzZDMzYjA5NTY2YzBlN2QzOTM0MmM2NDE.gif
+geometry
+3,4,5,
+Shodor Education Foundation, Inc.
+interactive lesson
+2015-04-22T23:55Z
+Image Tool
+Measure angles, distances, and areas in several different images (choices include maps, aerial photos, and others). A scale feature allows the user to set the scale used for measuring distances and areas.
+http://www.shodor.org/interactivate/activities/ImageTool/
+http://www.shodor.org/media/Y/W/F/iYTY2MzNlZDU4ODI1MDUxZWViYTcxNDdkMjE1Yzc.gif
+geometry
+3,4,5,6,7,8,9,10,11,12,
+Shodor Education Foundation, Inc.
+interactive lesson
+2015-04-22T23:55Z
+Fraction Quiz
+Test your fraction skills by answering questions. This quiz asks you to simplify fractions, convert fractions to decimals and percentages, and answer algebra questions involving fractions. Choose difficulty level, question types, and time. Fraction Quiz is one of the Interactivate assessment quizzes.
+http://www.shodor.org/interactivate/activities/FractionQuiz/
+http://www.shodor.org/media/O/T/d/hZWUzMzc4YjVmZDIzZDE1YmJkNjUyMTMwOTIxOWQ.gif
+number and operations,algebra,fractions
+8,3,4,5,6,7,
+Shodor Education Foundation, Inc.
+interactive lesson
+2015-04-22T23:55Z
+Fire!!
+Run a simulation of how a fire will spread through a stand of trees, learning about probability and chaos. Parameters: Probability that a tree catches fire if its neighbor is on fire.
+http://www.shodor.org/interactivate/activities/Fire/
+http://www.shodor.org/media/N/G/Q/xOGRhYTA2YzJmYTBmMzE2OWY2MWRmZjEzMzE5ZjM.gif
+discrete,modeling,probability,fractions
+3,4,5,6,7,8,9,10,11,12,
+Shodor Education Foundation, Inc.
+interactive lesson
+2015-04-22T23:55Z
+Spinner
+Create a game spinner with one to twelve sectors in order to look at experimental and theoretical probabilities. Parameters: Number of sectors, number of trials.
+http://www.shodor.org/interactivate/activities/BasicSpinner/
+http://www.shodor.org/media/M/T/d/lNGU2N2FkM2M2ZjYzOTZlM2YzNzhlM2JhODEyMDE.gif
+discrete,probability,fractions,statistics
+3,4,5,6,7,8,9,10,11,12,
+Shodor Education Foundation, Inc.
+interactive lesson
+2015-04-22T23:55Z
+Equivalent Fractions Pointer
+Visually represent two unique fractions that are equivalent to a given fraction. The fractional value is shown on a number line as you color in the fraction. Equivalent Fraction Pointer is one of the Interactivate assessment explorers.
+http://www.shodor.org/interactivate/activities/EquivFractionPointer/
+http://www.shodor.org/media/O/G/F/hNjE5OGMwMWQxZjQ4NWEzYmZjNDcwNWZhMjhkNWQ.gif
+number and operations,fractions
+8,3,4,5,6,7,
+Shodor Education Foundation, Inc.
+interactive lesson
+2015-04-22T23:55Z
+Cantor''s Comb
+Learn about fractions between 0 and 1 by repeatedly deleting portions of a line segment, and also learn about properties of fractal objects. Parameter: fraction of the segment to be deleted each time.
+http://www.shodor.org/interactivate/activities/CantorComb/
+http://www.shodor.org/media/Z/j/g/5NWY4ZTMxOTFjYjBmMGU3MDVmNzE0YmJhY2FmMzg.gif
+discrete,number and operations,geometry
+3,4,5,6,7,8,9,10,11,12,
+Shodor Education Foundation, Inc.
+interactive lesson
+2015-04-22T23:55Z
+Positive Linear Function Machine
+Students investigate linear functions with positive slopes by trying to guess the slope and intercept from inputs and outputs. Positive Linear Function Machine is one of the Interactivate assessment explorers.
+http://www.shodor.org/interactivate/activities/PositiveLinearFunct/
+http://www.shodor.org/media/O/T/V/mNmY1YTk3Njk0NDk5MjQ4ODY0NTAzMDU1YjQ5NWY.gif
+discrete,algebra
+6,7,8,9,10,11,12,
+Shodor Education Foundation, Inc.
+interactive lesson
+2015-04-22T23:55Z
+Another Hilbert Curve Generator
+Students work step-by-step through the generation of a different Hilbert-like Curve (a fractal made from deforming a line by bending it), allowing them to explore number patterns in sequences and geometric properties of fractals.
+http://www.shodor.org/interactivate/activities/AnotherHilbertCurve/
+http://www.shodor.org/media/Y/z/Z/hYWVhNzlkMTNkNmZmNzNkNzMwNmYyNGJlN2M4YmM.gif
+discrete,number and operations,geometry,fractions
+3,4,5,6,7,8,9,10,11,12,
+Shodor Education Foundation, Inc.
+interactive lesson
+2015-04-22T23:55Z
+Venn Diagram Shape Sorter
+Sort colored shapes into a Venn diagram based on various characteristics. Venn Diagram Shape Sorter is one of the Interactivate assessment explorers.
+http://www.shodor.org/interactivate/activities/ShapeSorter/
+http://www.shodor.org/media/Z/W/I/0NTJmZDgwODI2ZTJiYzc1OTU0ODQ2NDgxYzc3NmE.gif
+discrete,number and operations,graphs,geometry
+8,3,4,5,6,7,
+Shodor Education Foundation, Inc.
+interactive lesson
+2015-04-22T23:55Z
+Tables and Chairs
+Explore perimeter through rectangular and straight-line arrangements of tables, calculating the number of chairs needed to surround different arrangements. Tables and Chairs is one of the Interactivate assessment explorers.
+http://www.shodor.org/interactivate/activities/Chairs/
+http://www.shodor.org/media/O/D/J/jNmI0Zjk0MDcxNDE5YzEwMDgwNDlmYTJjYjA4MTc.gif
+discrete,number and operations,modeling,geometry
+8,3,4,5,6,7,
+Shodor Education Foundation, Inc.
+interactive lesson
+2015-04-22T23:55Z
+Number Cruncher
+Similar to the original "Function Machine" but lists input and output in a table and will not let the user attempt to guess the rule without having at least two data points. Number Cruncher is one of the Interactivate assessment explorers.
+http://www.shodor.org/interactivate/activities/NumberCruncher/
+http://www.shodor.org/media/Y/j/F/lZDFjNDJlOTY1NjVjYmMyYzc2NTFlODA1NGUxYmE.gif
+discrete,number and operations,algebra
+3,4,5,6,7,8,9,10,11,12,
+Shodor Education Foundation, Inc.
+interactive lesson
+2015-04-22T23:55Z
+General Coordinates Game
+Investigate the Cartesian coordinate system through identifying the coordinates of a randomly generated point, or requesting that a particular point be plotted. General Coordinates Game is one of the Interactivate assessment explorers.
+http://www.shodor.org/interactivate/activities/GeneralCoordinates/
+http://www.shodor.org/media/N/j/V/lZDNjNDFjYWVkZmVhOWU0N2ViMDEwY2RhOGY2ODA.gif
+algebra,geometry
+8,3,4,5,6,7,
+Shodor Education Foundation, Inc.
+interactive lesson
+2015-04-22T23:55Z
+Pattern Generator
+Recognize patterns in a series of shapes, numbers, or letters. After determining the pattern, the student fills in the missing pieces. Three levels of difficulty are available.
+http://www.shodor.org/interactivate/activities/PatternGenerator/
+http://www.shodor.org/media/O/T/c/yMWZlNmFhNTZiNjgwODQ1YTIyZTk1NmI0MDZiMGY.gif
+number and operations
+8,3,4,5,6,7,
+Shodor Education Foundation, Inc.
+interactive lesson
+2015-04-22T23:55Z
+3D Transmographer
+Build your own polygon and transform it in the Cartesian coordinate system. Experiment with reflections across any line, revolving around any line (which yields a 3-D image), rotations about any point, and translations in any direction.
+http://www.shodor.org/interactivate/activities/3DTransmographer/
+http://www.shodor.org/media/N/j/Z/mNDk4YjUzYmRhMjhlODE2MDA0NzA2NjExNGIxNzQ.png
+graphs,algebra,geometry,calculus
+3,4,5,6,7,8,9,10,11,12,
+Shodor Education Foundation, Inc.
+interactive lesson
+2015-04-22T23:55Z
+Ordered Simple Plot
+Plot ordered pairs on the graph, and they will be connected in the order that they are input. This enables you to decide how the pairs should be connected, rather than having the computer connect them from left to right.
+http://www.shodor.org/interactivate/activities/OrderedSimplePlot/
+http://www.shodor.org/media/Z/G/N/lODlmMTAwOThiNjRmOTY4YTUzMzI0MGYzMWNiODU.gif
+graphs,algebra,geometry,statistics
+3,4,5,6,7,8,9,10,11,12,
+Shodor Education Foundation, Inc.
+interactive lesson
+2015-04-22T23:55Z
+Recursion
+Graph recursive functions by defining f(0)=C and defining f(n) based on f(n-1).
+http://www.shodor.org/interactivate/activities/Recursion/
+http://www.shodor.org/media/M/2/M/5OTM4NGQ3NGNlMDQ3Y2EyY2VmNjVjMDMzNDI1OGQ.gif
+discrete,number and operations,graphs,algebra
+9,10,11,12,
+Shodor Education Foundation, Inc.
+interactive lesson
+2015-04-22T23:55Z
+Circle Graph
+Enter your own data categories and the value of each category to create a pie chart. There are also built in data sets which can be viewed.
+http://www.shodor.org/interactivate/activities/CircleGraph/
+http://www.shodor.org/media/N/W/M/yZjhlMjRiNzk3NzgyYzgwMmY3NmZkZjYyYmRiMGY.gif
+graphs,fractions,statistics
+3,4,5,6,7,8,9,10,11,12,
+Shodor Education Foundation, Inc.
+interactive lesson
+2015-04-22T23:55Z
+Koch''s Snowflake
+Step through the generation of the Koch Snowflake -- a fractal made from deforming the sides of a triangle, and explore number patterns in sequences and geometric properties of fractals.
+http://www.shodor.org/interactivate/activities/KochSnowflake/
+http://www.shodor.org/media/O/T/Y/3ZTViMGQ0MTliZTA4YzUxOTRiNzY4YzE1YTFhNGU.gif
+discrete,number and operations,geometry,fractions
+3,4,5,6,7,8,9,10,11,12,
+Shodor Education Foundation, Inc.
+interactive lesson
+2015-04-22T23:55Z
+Dice Table
+Experiment with the outcome distribution for a roll of two dice by simulating a dice throwing game. Parameters: Which player wins with which total rolled.
+http://www.shodor.org/interactivate/activities/DiceTable/
+http://www.shodor.org/media/M/T/Z/hM2VmYzQzMGFjODRlNjMwOGMyNDVhZjJkODA5OTQ.gif
+discrete,probability,fractions
+6,7,8,9,10,11,12,
+Shodor Education Foundation, Inc.
+interactive lesson
+2015-04-22T23:55Z
+The Chaos Game
+Play the Chaos Game by experimenting with probabilities. Learn about an apparently random process with a not-so-random, geometric fractal result.
+http://www.shodor.org/interactivate/activities/TheChaosGame/
+http://www.shodor.org/media/O/D/F/lMWM4ZWNmOTE4ZWNmMzk5MTRhODZmZjlkZDI4MDI.gif
+geometry
+6,7,8,9,10,11,12,
+Shodor Education Foundation, Inc.
+interactive lesson
+2015-04-22T23:55Z
+Comparison Estimator
+Compare two sets of objects, using estimation to determine which is greater. Estimate a number of objects, the length of a line, or the area of a shape. Parameter: error tolerance. Comparison Estimator is one of the Interactivate assessment explorers.
+http://www.shodor.org/interactivate/activities/ComparisonEstimator/
+http://www.shodor.org/media/N/m/U/5YTI4Yjc1MzAyNDdiMzVhMTBlYjJlNmIzZmIwMDc.gif
+number and operations
+3,4,5,6,7,8,9,10,11,12,
+Shodor Education Foundation, Inc.
+interactive lesson
+2015-04-22T23:55Z
+Skew Distribution
+Change the median and standard deviation of an automatically generated normal distribution to create a skewed distribution, allowing you to observe properties like what it means for the mean, median, and mode to be different. Parameters: median, standard deviation, number of trials, class intervals.
+http://www.shodor.org/interactivate/activities/SkewDistribution/
+http://www.shodor.org/media/N/m/M/3ODAyODU5NjdiOTY2Nzk0ODY2NTRjZjJiMzg1NTU.gif
+graphs,statistics
+9,10,11,12,
+Shodor Education Foundation, Inc.
+interactive lesson
+2015-04-22T23:55Z
+Incline
+This applet allows the user to make observations about the relationship between speed and position and how both of these are affected by initial velocity and the incline on which the biker is traveling.
+http://www.shodor.org/interactivate/activities/Incline/
+http://www.shodor.org/media/M/G/Y/0YmQzNzE3YTBlNDU1NTFlM2ZhN2QzMzE0MzVhZGI.gif
+modeling,algebra
+9,10,11,12,
+Shodor Education Foundation, Inc.
+interactive lesson
+2015-04-22T23:55Z
+Transmographer
+Explore the world of translations, reflections, and rotations in the Cartesian coordinate system by transforming squares, triangles and parallelograms. Parameters: Shape, x or y translation, x or y reflection, angle of rotation.
+http://www.shodor.org/interactivate/activities/Transmographer/
+http://www.shodor.org/media/Y/z/B/jZTJjZGMwMjAzODk2YmQxYTcwZWIxZjNmNjQ0NGI.gif
+graphs,geometry
+3,4,5,6,7,8,9,10,11,12,
+Shodor Education Foundation, Inc.
+interactive lesson
+2015-04-22T23:55Z
+Clock Arithmetic
+Work with various types of clocks in order to learn about modular arithmetic operations. Parameters: Number of hours on the clock.
+http://www.shodor.org/interactivate/activities/ClockArithmetic/
+http://www.shodor.org/media/Y/j/U/1Y2ZlNzlhOWE2MDQ3YTdiN2E2ODNiMGQwZWU4ZTg.gif
+discrete,number and operations
+8,3,4,5,6,7,
+Shodor Education Foundation, Inc.
+interactive lesson
+2015-04-22T23:55Z
+Mixtures
+Mixtures allows exploration of percents through two piles of colored and uncolored chips. The user must decide how many chips to color to create the desired percentage of colored chips compared to the total pile. Mixtures is one of the Interactivate assessment explorers.
+http://www.shodor.org/interactivate/activities/Mixtures/
+http://www.shodor.org/media/M/D/U/wYTNhMWRjMTg5MTRmOTUyNzRmOTU4NzA0MWI4Mzg.gif
+number and operations
+3,4,5,6,7,8,9,10,11,12,
+Shodor Education Foundation, Inc.
+interactive lesson
+2015-04-22T23:55Z
+Directable Fire!!
+Run a simulation of how a fire will spread through a stand of trees, learning about probability and chaos. Parameters: Probability that a tree will set fire to each of its eight neighbors.
+http://www.shodor.org/interactivate/activities/DirectableFire/
+http://www.shodor.org/media/N/T/Q/yMjBjZTlhOTYzYTBkODA1ZjMyNzdlMThiZThhYmY.gif
+discrete,modeling,probability,fractions
+6,7,8,9,10,11,12,
+Shodor Education Foundation, Inc.
+interactive lesson
+2015-04-22T23:55Z
+Bounded Fraction Finder
+The same as "Bounded Fraction Pointer" but there is no arrow to help the user determine the value of a fraction between the two endpoints. Bounded Fraction Finder is one of the Interactivate assessment explorers.
+http://www.shodor.org/interactivate/activities/BoundFractionFinder/
+http://www.shodor.org/media/O/T/V/lNDNiMjg0MzNiN2NlMDE1ZTU1MWRiZjVjZjMwZjg.gif
+number and operations,fractions
+8,3,4,5,6,7,
+Shodor Education Foundation, Inc.
+interactive lesson
+2015-04-22T23:55Z
+Polar Coordinates
+This activity allows the user to explore the polar coordinate system. The applet is similar to GraphIt, but instead allows users to explore the representation of a function in the polar coordinate system.
+http://www.shodor.org/interactivate/activities/PolarCoordinates/
+http://www.shodor.org/media/N/T/c/5NjRiOGQ3NWE0NWJhODFkZDJjZGNhMTNiYWYyZjk.png
+graphs,algebra,calculus
+9,10,11,12,
+Shodor Education Foundation, Inc.
+interactive lesson
+2015-04-22T23:55Z
+Arithmetic Quiz
+Arithmetic Quiz gives the user randomized questions to answer on arithmetic with whole numbers and integers. Parameters: Level of difficulty and types of questions. Arithmetic Quiz is one of the Interactivate assessment quizzes.
+http://www.shodor.org/interactivate/activities/ArithmeticQuiz/
+http://www.shodor.org/media/O/G/Q/5MjdjMTU0NjRhZjIwMTljN2I5ZWI1MWIxZDkxYTk.gif
+discrete,number and operations,fractions
+8,3,4,5,6,7,
+Shodor Education Foundation, Inc.
+interactive lesson
+2015-04-22T23:55Z
+Caesar Cipher
+Create your own affine cipher for encoding and decoding messages. Input your own constant and multiplier, then input a message to encode.
+http://www.shodor.org/interactivate/activities/CaesarCipher/
+http://www.shodor.org/media/Z/j/B/hZTZjNjVlM2YxMTgxN2UwMjg1YWY5MGUyN2VkMjk.gif
+discrete,number and operations,algebra
+3,4,5,6,7,8,9,10,11,12,
+Shodor Education Foundation, Inc.
+interactive lesson
+2015-04-22T23:55Z
+Flake Maker
+Create your own fractals by drawing a "line deformation rule" and stepping through the generation of a geometric fractal. Parameters: Grid type, number of bending points on the line.
+http://www.shodor.org/interactivate/activities/FlakeMaker/
+http://www.shodor.org/media/Z/G/I/wNzY5ZDMzNDdjNjM4ODA3NmJjNTBjOTdlOTUxODk.gif
+number and operations,geometry
+3,4,5,6,7,8,9,10,11,12,
+Shodor Education Foundation, Inc.
+interactive lesson
+2015-04-22T23:55Z
+Linear Inequalities
+Students create linear inequalities and systems of linear inequalities on a coordinate plane. This is like a graphing calculator with advanced viewing options.
+http://www.shodor.org/interactivate/activities/inequality/
+http://www.shodor.org/media/Z/j/Q/wMTNiMWU2Nzk4NTdiMTU4MjU0NDBhZjFkMTQ3YzY.gif
+algebra
+6,7,8,9,10,11,12,
+Shodor Education Foundation, Inc.
+interactive lesson
+2015-04-22T23:55Z
+Plop It!
+PlopIt allows users to build dot plots of data using the mouse. View how the mean, median, and mode change as entries are added to the plot. Parameters: Range for observations.
+http://www.shodor.org/interactivate/activities/PlopIt/
+http://www.shodor.org/media/M/z/M/3ZjkwOGZlODA1YmQ0MzA0MjhhYzliYjc0NDlkOTk.gif
+graphs,statistics
+3,4,5,6,7,8,9,10,11,12,
+Shodor Education Foundation, Inc.
+interactive lesson
+2015-04-22T23:55Z
+Two Colors Applet
+Choose one of three boxes and choose one ball from the box to look at conditional probabilities. Parameters: Number of trials.
+http://www.shodor.org/interactivate/activities/TwoColors/
+http://www.shodor.org/media/M/D/M/2Yjk0ZDRkY2MyMjJhYmI5NGNiNGMzNTQ1ODQ4ZTM.gif
+discrete,modeling,probability
+6,7,8,9,10,11,12,
+Shodor Education Foundation, Inc.
+interactive lesson
+2015-04-22T23:55Z
+Equation Solver
+This activity helps you understand how to balance an equation. You input the term and the operation. The activity uses that term and operates on both sides of the equation. It then displays the resulting equation. Equation Solver is one of the Interactivate assessment explorers.
+http://www.shodor.org/interactivate/activities/EquationSolver/
+http://www.shodor.org/media/N/m/F/mNDE0N2JjNzNmYzk4YzA2OGNhN2NkMGY2NmJiZTc.
+algebra
+6,7,8,9,10,11,12,
+Shodor Education Foundation, Inc.
+interactive lesson
+2015-04-22T23:55Z
+Stem and Leaf Plotter
+View stem-and-leaf plots of your own data, and then practice finding means, medians and modes. Stem and Leaf Plotter is one of the Interactivate assessment explorers.
+http://www.shodor.org/interactivate/activities/StemAndLeafPlotter/
+http://www.shodor.org/media/Y/j/M/2MzQ5ZTBmZDBjYzM0ZjkwNTRlYjBkNjg0MTJhMWY.gif
+graphs,statistics
+3,4,5,6,7,8,9,10,11,12,
+Shodor Education Foundation, Inc.
+interactive lesson
+2015-04-22T23:55Z
+Hilbert Curve Generator
+Step through the generation of a Hilbert Curve -- a fractal made from deforming a line by bending it, and explore number patterns in sequences and geometric properties of fractals.
+http://www.shodor.org/interactivate/activities/HilbertCurve/
+http://www.shodor.org/media/Y/W/U/zYTRjMzhkNzE4Y2JlMzA2NDQxZmY3OWZhNDE0ZTU.gif
+discrete,number and operations,geometry,fractions
+3,4,5,6,7,8,9,10,11,12,
+Shodor Education Foundation, Inc.
+interactive lesson
+2015-04-22T23:55Z
+Order of Operations Quiz
+This activity allows the user to practice order of operations with addition/subtraction, multiplication/division, exponents, and parentheses. Order of Operations Quiz is one of the Interactivate assessment quizzes.
+http://www.shodor.org/interactivate/activities/OperationsQuiz/
+http://www.shodor.org/media/Y/z/k/zNWY4OWNiMDBjZjYwZjFjMDJjMjA5MmIzYmFjNTQ.gif
+number and operations
+3,4,5,6,7,8,9,10,11,12,
+Shodor Education Foundation, Inc.
+interactive lesson
+2015-04-22T23:55Z
+Box Plot
+Students can create box plots for either built-in or user-specified data as well as experiment with outliers. User may choose to use or not use the median for calculation of interquartile range.
+http://www.shodor.org/interactivate/activities/BoxPlot/
+http://www.shodor.org/media/Y/z/Z/jNjU0YzRmMmE5ZmE2YTZlYjRjY2U3OGY3YWEwMTA.gif
+graphs,statistics
+6,7,8,9,10,11,12,
+Shodor Education Foundation, Inc.
+interactive lesson
+2015-04-22T23:55Z
+Arithmetic Four
+Students play a generalized version of connect four, gaining the chance to place a piece on the board by answering arithmetic questions (addition, subtraction, multiplication, division). Parameters: time, difficulty level, types of questions. Arithmetic Four is one of the Interactivate assessment games.
+http://www.shodor.org/interactivate/activities/ArithmeticFour/
+http://www.shodor.org/media/O/W/Z/lYzhkYzIyYTI3MDk1MzNhZDZiYTE1Y2E4NzdmOTY.gif
+discrete,number and operations,fractions
+8,3,4,5,6,7,
+Shodor Education Foundation, Inc.
+interactive lesson
+2015-04-22T23:55Z
+Function Machine
+Students investigate very simple functions by trying to guess the algebraic form from inputs and outputs. Function Machine is one of the Interactivate assessment explorers.
+http://www.shodor.org/interactivate/activities/FunctionMachine/
+http://www.shodor.org/media/M/z/A/2Yjk5ZjkyN2Q1MTgwNDM0MDBlODVmYzZkNzU0NTY.gif
+discrete,algebra
+6,7,8,9,10,11,12,
+Shodor Education Foundation, Inc.
+interactive lesson
+2015-04-22T23:55Z
+Maze Game
+Investigate the Cartesian coordinate system by directing a robot through a mine field laid out on the plane. Maze Game is one of the Interactivate assessment explorers.
+http://www.shodor.org/interactivate/activities/MazeGame/
+http://www.shodor.org/media/Z/j/N/jYzRhZWUyZjFkODY5YTRhNjBjZThhMjdiZTBjYzk.gif
+graphs,algebra,geometry
+8,3,4,5,6,7,
+Shodor Education Foundation, Inc.
+interactive lesson
+2015-04-22T23:55Z
+Fraction Pointer
+Determine the value of two given fractions represented as points on a number line. Then find a fraction whose value is between the two given fractions (using an arrow on the number line as a guide) and determine its value. Fraction Pointer is one of the Interactivate assessment explorers.
+http://www.shodor.org/interactivate/activities/FractionPointer/
+http://www.shodor.org/media/N/m/Z/jYmE1Y2I2NWRjMmNiOTU2OWVkYjU5OTNiZDE5OWM.gif
+number and operations,fractions
+8,3,4,5,6,7,
+Shodor Education Foundation, Inc.
+interactive lesson
+2015-04-22T23:55Z
+Pie Chart
+Create a pie chart, adjusting the size of the divisions using your mouse or by entering values. Parameters: Number of sections, size of sections, whether to use percents or fractions.
+http://www.shodor.org/interactivate/activities/PieChart/
+http://www.shodor.org/media/N/T/B/lZmU1NGFkYTM0MzZiODg0Y2Q3ZDVkOGJhOWE4YWQ.gif
+graphs,statistics
+3,4,5,6,7,8,9,10,11,12,
+Shodor Education Foundation, Inc.
+interactive lesson
+2015-04-22T23:55Z
+Racing Game with Two Dice
+Simulate a game where "N" players roll two dice, and the lucky player has an advantage for reaching the finish. Parameters: the number of players, number of trials and length of the race.
+http://www.shodor.org/interactivate/activities/RacingGameWithTwoDie/
+http://www.shodor.org/media/Z/G/M/4YTM5MzIzOWNkYjVmYmNkMzdiMGUzYTYyZjdmYmY.gif
+discrete,probability
+6,7,8,9,10,11,12,
+Shodor Education Foundation, Inc.
+interactive lesson
+2015-04-22T23:55Z
+Advanced Monty Hall
+Choose one of N doors to experimentally determine the odds of winning the grand prize behind one of the doors, as in the TV program "Let''s Make a Deal." Parameters: Number of doors, number of trials, staying or switching between the two remaining doors.
+http://www.shodor.org/interactivate/activities/AdvancedMontyHall/
+http://www.shodor.org/media/N/2/Q/5ODNhMTdhNGU2Mjc3MGY2MWFmNzE5OTI2NDhhZTE.gif
+discrete,modeling,probability,statistics
+6,7,8,9,10,11,12,
+Shodor Education Foundation, Inc.
+interactive lesson
+2015-04-22T23:55Z
+Pythagorean Explorer
+Calculate the length of one side of an automatically generated right triangle by using the Pythagorean Theorem, and then check your answers. Pythagorean Explorer is one of the Interactivate assessment explorers.
+http://www.shodor.org/interactivate/activities/PythagoreanExplorer/
+http://www.shodor.org/media/Z/j/E/5NDQ0YmQ4YTk1YjQ4NTAzZGMxMmI4ZjA5OWI3NjE.gif
+geometry
+6,7,8,9,10,11,12,
+Shodor Education Foundation, Inc.
+interactive lesson
+2015-04-22T23:55Z
+Triangle Explorer
+Calculate the area of a triangle drawn on a grid. Learn about areas of triangles and about the Cartesian coordinate system. Triangle Explorer is one of the Interactivate assessment explorers.
+http://www.shodor.org/interactivate/activities/TriangleExplorer/
+http://www.shodor.org/media/M/W/U/5MDQ4MWIyMjgyYWU5MDM4NTkwZmFkNTFjZmQzNDM.gif
+geometry
+6,7,8,9,10,11,12,
+Shodor Education Foundation, Inc.
+interactive lesson
+2015-04-22T23:55Z
+Regression
+Plot a bivariate data set, determine the line of best fit for their data, and then check the accuracy of your line of best fit.
+http://www.shodor.org/interactivate/activities/Regression/
+http://www.shodor.org/media/Y/m/F/hZjA5MTUzMzliMTNkNjI0MjUwZTU3YWVkMWU5OGQ.gif
+graphs,algebra,calculus,statistics
+6,7,8,9,10,11,12,
+Shodor Education Foundation, Inc.
+interactive lesson
+2015-04-22T23:55Z
+Bounded Fraction Pointer
+Determine the value of two fractions you have chosen (which are represented as points on a number line). Then find a fraction whose value is between your two fractions (using an arrow on the number line as a guide) and determine its value. Bounded Fraction Pointer is one of the Interactivate assessment explorers.
+http://www.shodor.org/interactivate/activities/BoundFractionPointer/
+http://www.shodor.org/media/M/T/A/3NzI3YjgzMjEwOTZkNGJiNjVkOWNkNzNlYThkODQ.gif
+number and operations,fractions
+8,3,4,5,6,7,
+Shodor Education Foundation, Inc.
+interactive lesson
+2015-04-22T23:55Z
+Venn Diagrams
+Classify various objects into categories in a Venn Diagram. Learn how categories in Venn Diagrams work. Venn Diagrams is one of the Interactivate assessment explorers.
+http://www.shodor.org/interactivate/activities/VennDiagrams/
+http://www.shodor.org/media/N/j/Q/2MWJlMDkyY2NiMjc4YTgxYjA1ZDNiNmJmZWNmMDk.gif
+discrete,number and operations,graphs,algebra,geometry
+3,4,5,6,7,8,9,10,11,12,
+Shodor Education Foundation, Inc.
+interactive lesson
+2015-04-22T23:55Z
+Whole Number Cruncher
+Give input to the Whole Number Cruncher and try to guess what it did from the output it generates. This activity only generates multiplication and addition functions to avoid outputting any negative numbers. Whole Number Cruncher is one of the Interactivate assessment explorers.
+http://www.shodor.org/interactivate/activities/WholeNumberCruncher/
+http://www.shodor.org/media/M/z/k/5Yzk3NGYyODgyODQxZWYzMDAyZjlhNGEyNTVhNGQ.gif
+discrete,number and operations,algebra
+3,4,5,6,7,8,9,10,11,12,
+Shodor Education Foundation, Inc.
+interactive lesson
+2015-04-22T23:55Z
+Shape Explorer
+Learn the relationship between perimeter and area. A random shape will be automatically generated. Calculate the area and perimeter of this shape. Shape Explorer is one of the Interactivate assessment explorers.
+http://www.shodor.org/interactivate/activities/ShapeExplorer/
+http://www.shodor.org/media/O/G/V/mZDAwZDM3OGY4OTY4NGYxNDBiY2EyZGY4OTE3MmI.gif
+geometry
+8,3,4,5,6,7,
+Shodor Education Foundation, Inc.
+interactive lesson
+2015-04-22T23:55Z
+Sierpinski''s Carpet
+Step through the generation of Sierpinski''s Carpet -- a fractal made from subdividing a square into nine smaller squares and cutting the middle one out. Explore number patterns in sequences and geometric properties of fractals.
+http://www.shodor.org/interactivate/activities/SierpinskiCarpet/
+http://www.shodor.org/media/Z/j/Y/4NGYzZTBhZGIyOWY4ZTNmZjZmOTdmMzJhNGYxODU.gif
+discrete,number and operations,geometry,fractions
+3,4,5,6,7,8,9,10,11,12,
+Shodor Education Foundation, Inc.
+interactive lesson
+2015-04-22T23:55Z
+Elapsed Time Two
+Given a starting time and elapsed time practice finding the ending time. Elapsed Time Two is one of the Interactivate assessment explorers.
+http://www.shodor.org/interactivate/activities/ElapsedTimeTwo/
+http://www.shodor.org/media/N/D/Q/yY2Y3MDViZTllNGExMGVlMzA0MGJmM2I1MmQxYTc.png
+geometry
+8,3,4,5,6,7,
+Shodor Education Foundation, Inc.
+interactive lesson
+2015-04-22T23:55Z
+Coloring Remainders in Pascal''s Triangle
+Color numbers in Pascal''s Triangle by rolling a number and then clicking on all entries that have the same remainder when divided by the number rolled, thereby practicing division and remainders, investigating number patterns, and investigating fractal patterns. Coloring Remainders in Pascal''s Triangle is one of the Interactivate assessment explorers.
+http://www.shodor.org/interactivate/activities/ColoringRemainder/
+http://www.shodor.org/media/M/W/I/wOTgzZTZlYWRkZDA5MWFjYmRkMzk4ZWMwMTY0Zjk.gif
+discrete,number and operations,geometry,fractions
+3,4,5,6,7,8,9,10,11,12,
+Shodor Education Foundation, Inc.
+interactive lesson
+2015-04-22T23:55Z
+Single Fraction Finder
+Determine the value of a given fraction represented as a point on a number line. Then find a fraction whose value is a given fraction. Fraction Pointer is one of the Interactivate assessment explorers.
+http://www.shodor.org/interactivate/activities/SingleFractionFinder/
+http://www.shodor.org/media/M/W/U/wMWJmYTY4YjkzNTQ3YTdjNWNjYTBlODY5OTBmZGU.gif
+number and operations,fractions
+8,3,4,5,6,7,
+Shodor Education Foundation, Inc.
+interactive lesson
+2015-04-22T23:55Z
+Life
+Run the classic game of life, learning about probabilities, chaos and simulation. This activity allows the user to run a randomly generated world or test out various patterns. This is a very powerful activity with a wide range of options. It runs in a separate window.
+http://www.shodor.org/interactivate/activities/Life/
+http://www.shodor.org/media/N/G/M/1MDgxODdlMWViMjIxMjU3NGMwOWE5ZTE4YzRmMTY.gif
+modeling,probability
+6,7,8,9,10,11,12,
+Shodor Education Foundation, Inc.
+interactive lesson
+2015-04-22T23:55Z
+Spread of Disease
+Models how a population of susceptible, infected, and recovered people is affected by a disease.
+http://www.shodor.org/interactivate/activities/SpreadofDisease/
+http://www.shodor.org/media/Z/W/Q/1ZGQ5Y2EzNDVkZDczNmRkYTI0MWFhN2FjN2I3ZmI.png
+modeling,probability
+3,4,5,6,7,8,9,10,11,12,
+Shodor Education Foundation, Inc.
+interactive lesson
+2015-04-22T23:55Z
+Scatter Plot
+Graph ordered pairs and customize the graph title and axis labels. Points are connected from left to right, rather than being connected in the order they are entered.
+http://www.shodor.org/interactivate/activities/ScatterPlot/
+http://www.shodor.org/media/M/D/U/3YzUzZTEzNGRjZTVlZDk4NmUxMDIzYmI2ODU1MTY.gif
+graphs,algebra,statistics
+3,4,5,6,7,8,9,10,11,12,
+Shodor Education Foundation, Inc.
+interactive lesson
+2015-04-22T23:55Z
+Multi Bar Graph
+Enter data to create a double bar graph, then manipulate the graph''s maximum and minimum values.
+http://www.shodor.org/interactivate/activities/MultiBarGraph/
+http://www.shodor.org/media/N/m/J/lOWIxYjFmNTNmMTJkY2UzOTg4YTJkNzJjNDZhNTQ.gif
+graphs,statistics
+6,7,8,9,10,11,12,
+Shodor Education Foundation, Inc.
+interactive lesson
+2015-04-22T23:55Z
+Parametric GraphIt
+This activity allows the user to plot ordered pairs and parametric equations on the same coordinate plane. The applet is similar to GraphIt, but instead allows users to explore the parametric representation of a function.
+http://www.shodor.org/interactivate/activities/ParametricGraphIt/
+http://www.shodor.org/media/M/T/E/2NDg2OTQzZTE1NWZmZTFmNjUwNWI3ZGNmNjlkYWM.png
+calculus
+9,10,11,12,
+Shodor Education Foundation, Inc.
+interactive lesson
+2015-04-22T23:55Z
+Area Explorer
+Learn the relationship between perimeter and area. A shape will be automatically generated with the perimeter that you choose. Calculate the area of this shape. Area Explorer is one of the Interactivate assessment explorers.
+http://www.shodor.org/interactivate/activities/AreaExplorer/
+http://www.shodor.org/media/O/D/Q/2NDlmODVmN2VkZDk5ZDAyZTI4MGNmMjJmNzA3Nzc.gif
+geometry
+8,3,4,5,6,7,
+Shodor Education Foundation, Inc.
+interactive lesson
+2015-04-22T23:55Z
+Fire Assessment
+Learn about estimation through modeling of a forest fire. This activity allows the user to burn a virtual forest, then estimate the number, the percent, or the fraction of trees burned. Fire Assessment is one of the Interactivate assessment explorers.
+http://www.shodor.org/interactivate/activities/FireAssessment/
+http://www.shodor.org/media/Y/T/A/5OTljMjUzZTkxYmJkNjliM2I0OGQ2ZTM5Y2VhMzU.gif
+number and operations,modeling,probability
+3,4,5,6,7,8,9,10,11,12,
+Shodor Education Foundation, Inc.
+interactive lesson
+2015-04-22T23:55Z
+Data Flyer
+Enter a set of data points, then derive a function to fit those points. Manipulate the function on a coordinate plane using slider bars. Learn how each constant and coefficient affects the resulting graph.
+http://www.shodor.org/interactivate/activities/DataFlyer/
+http://www.shodor.org/media/M/z/d/lZDk0NmI3YjMzNGVkYjMwYmUyYjYyYWVjMGIxMTU.gif
+graphs,modeling,algebra,statistics
+6,7,8,9,10,11,12,
+Shodor Education Foundation, Inc.
+interactive lesson
+2015-04-22T23:55Z
+Fraction Finder
+Determine the value of two given fractions represented as points on a number line. Then find a fraction whose value is between the two given fractions and determine its value. Fraction Finder is one of the Interactivate assessment explorers.
+http://www.shodor.org/interactivate/activities/FractionFinder/
+http://www.shodor.org/media/Z/G/Y/5MzJiNDZlNWNkOGNlYmE2YjhjMzliODNiNTNiOWY.gif
+number and operations,fractions
+8,3,4,5,6,7,
+Shodor Education Foundation, Inc.
+interactive lesson
+2015-04-22T23:55Z
+Function Flyer
+A more advanced version of Slope Slider, this activity allows the manipulation of the constants and coefficients in any function thereby encouraging the user to explore the effects on the graph of the function by changing those numbers.
+http://www.shodor.org/interactivate/activities/FunctionFlyer/
+http://www.shodor.org/media/Z/j/A/3NDE2YmVlN2YzN2M3N2Q2Yjk3ZDRmYTNhNDUzOTI.gif
+graphs,algebra,calculus
+6,7,8,9,10,11,12,
+Shodor Education Foundation, Inc.
+interactive lesson
+2015-04-22T23:55Z
+Fractured Pictures
+Generate complicated geometric fractals by specifying starting polygon and scale factor.
+http://www.shodor.org/interactivate/activities/FracturedPictures/
+http://www.shodor.org/media/M/D/k/wOTg3YWZiZGQxYzU2ZjE2MGU2ZDc3YzExOWZhZTk.gif
+discrete,geometry
+6,7,8,9,10,11,12,
+Shodor Education Foundation, Inc.
+interactive lesson
+2015-04-22T23:55Z
+Life Lite
+Run the classic game of life, learning about probabilities, chaos and simulation. This activity allows the user to run a randomly generated world or test out various patterns. This is a simple activity which runs directly in the Interactivate window.
+http://www.shodor.org/interactivate/activities/LifeLite/
+http://www.shodor.org/media/Z/D/k/wZTY0NWQxOTQyYTBhMjdjYWVjMWNiYTI1YTdmOWI.gif
+modeling,probability
+6,7,8,9,10,11,12,
+Shodor Education Foundation, Inc.
+interactive lesson
+2015-04-22T23:55Z
+Transmographer 2
+Build your own polygon and transform it in the Cartesian coordinate system. Experiment with reflections across any line, rotations about any point, and translations in any direction. Parameters: Shape, x or y translation, x or y reflection, angle of rotation
+http://www.shodor.org/interactivate/activities/TransmographerTwo/
+http://www.shodor.org/media/N/G/Z/lYzVhYjVjYzA4Zjk2MWVkNTRhMTA5ZTc0YTJjNWE.gif
+graphs,geometry
+3,4,5,6,7,8,9,10,11,12,
+Shodor Education Foundation, Inc.
+interactive lesson
+2015-04-22T23:55Z
+Marbles
+Learn about sampling with and without replacement by randomly drawing marbles from a bag. Parameters: Number and color of marbles in the bag, replacement rule.
+http://www.shodor.org/interactivate/activities/Marbles/
+http://www.shodor.org/media/N/m/N/kM2FhYTNhYTVjMWVjZDVmYjliMDIwMWY5ZTBlNDc.gif
+discrete,probability
+6,7,8,9,10,11,12,
+Shodor Education Foundation, Inc.
+interactive lesson
+2015-04-22T23:55Z
+Graphit
+Create graphs of functions and sets of ordered pairs on the same coordinate plane. This is like a graphing calculator with advanced viewing options.
+http://www.shodor.org/interactivate/activities/Graphit/
+http://www.shodor.org/media/Z/W/Y/1NDcwYzc2OTk1N2QzN2I4Mzg1NmZmYTMwNTY0MmI.gif
+graphs,algebra,calculus,statistics
+6,7,8,9,10,11,12,
+Shodor Education Foundation, Inc.
+interactive lesson
+2015-04-22T23:55Z
+Coloring Multiples in Pascal''s Triangle
+Color numbers in Pascal''s Triangle by rolling a number and then clicking on all entries that are multiples of the number rolled, thereby practicing multiplication tables, investigating number patterns, and investigating fractal patterns. Coloring Multiples in Pascal''s Triangle is one of the Interactivate assessment explorers.
+http://www.shodor.org/interactivate/activities/ColoringMultiples/
+http://www.shodor.org/media/M/2/Z/mNmMxZTNiMDRiZTJlZjFhZDk0NjYzMjViZWMyYjE.gif
+discrete,number and operations,geometry,fractions
+3,4,5,6,7,8,9,10,11,12,
+Shodor Education Foundation, Inc.
+interactive lesson
+2015-04-22T23:55Z
+Factorize
+Visualize factors through building rectangular areas on a grid. First enter all the factorizations of a number, then draw each factor set as an area on the grid. Factorize is one of the Interactivate assessment explorers.
+http://www.shodor.org/interactivate/activities/Factorize/
+http://www.shodor.org/media/O/D/E/3YzlhZTNjZmIxYzI1ZGZkNzkwMjBlMmE3MGM3MjQ.gif
+discrete,number and operations,geometry,fractions
+3,4,5,6,7,8,9,10,11,12,
+Shodor Education Foundation, Inc.
+interactive lesson
+2015-04-22T23:55Z
+The Mandelbrot Set
+Explore fractals by investigating the relationships between the Mandelbrot set and Julia sets.
+http://www.shodor.org/interactivate/activities/TheMandelbrotSet/
+http://www.shodor.org/media/N/G/U/1NzQ4NWEzYmI0YWQ1NTk4NGJiZmIwZjYzZjMzODA.gif
+discrete,number and operations,geometry,fractions
+6,7,8,9,10,11,12,
+Shodor Education Foundation, Inc.
+interactive lesson
+2015-04-22T23:55Z
+Estimator Four
+Play a "Connect-Four" style game, earning a game piece each time you answer an estimation question correctly. This game asks the players to estimate the answer to addition, multiplication, and percentage questions. Choose difficulty level, question types, and time. Estimator Four is one of the Interactivate assessment games.
+http://www.shodor.org/interactivate/activities/EstimatorFour/
+http://www.shodor.org/media/Z/m/I/zMTdmMjc4NmI1MGIwMTdmN2JmNzMxNjUyNGNjNzY.gif
+number and operations
+3,4,5,6,7,8,9,10,11,12,
+Shodor Education Foundation, Inc.
+interactive lesson
+2015-04-22T23:55Z
+Fraction Sorter
+Visualize fractions by coloring in the appropriate portions of either a circle or a square, then order those fractions from least to greatest. Fraction Sorter is one of the Interactivate assessment explorers.
+http://www.shodor.org/interactivate/activities/FractionSorter/
+http://www.shodor.org/media/O/W/E/1NTY0M2ExYmE3NTc1NmQ5NTQ5ZDBiNzBkZDU5ZTA.gif
+number and operations,fractions
+8,3,4,5,6,7,
+Shodor Education Foundation, Inc.
+interactive lesson
+2015-04-22T23:55Z
+Simple Plot
+Plot ordered pairs of numbers, either as a scatter plot or with the dots connected. Points are connected from right to left, rather than being connected in the order they are entered.
+http://www.shodor.org/interactivate/activities/SimplePlot/
+http://www.shodor.org/media/Z/j/k/0OTE4ZTQwYzAyNTM3YzM5Njg1MTA2OGRjMzAxMmY.gif
+graphs,algebra,geometry,statistics
+3,4,5,6,7,8,9,10,11,12,
+Shodor Education Foundation, Inc.
+interactive lesson
+2015-04-22T23:55Z
+InteGreat!
+InteGreat! allows the user to visually explore the idea of integration through approximating the integral value with partitions. The user controls the number of partitions, the upper and lower limits, and the method used to estimate the integral.
+http://www.shodor.org/interactivate/activities/Integrate/
+http://www.shodor.org/media/M/W/J/kZDJjZGVlNGExYTBhODM2YWQ1NjhjMTE1ZDdkNzc.gif
+graphs,algebra,calculus
+9,10,11,12,
+Shodor Education Foundation, Inc.
+interactive lesson
+2015-04-22T23:55Z
+Equivalent Fractions Finder
+Visually represent two unique fractions that are equivalent to a given fraction. The fractional value is shown on a number line after you check to see if your fraction is correct. Equivalent Fraction Finder is one of the Interactivate assessment explorers.
+http://www.shodor.org/interactivate/activities/EquivFractionFinder/
+http://www.shodor.org/media/N/T/E/0YmY3ZTIyZWI4YjQxYTRhM2RmMjAzNjcyYjk4YTA.gif
+number and operations,fractions
+8,3,4,5,6,7,
+Shodor Education Foundation, Inc.
+interactive lesson
+2015-04-22T23:55Z
+Slope Slider
+Similar to other "flyers", Slope Slider uses slider bars to explore the effect of the multiplier and constant on a linear function of the form f(x)=mx+b. Explore the relationship between slope and intercept in the Cartesian coordinate system.
+http://www.shodor.org/interactivate/activities/SlopeSlider/
+http://www.shodor.org/media/N/m/Y/3Y2MyMzI3NWRjOTE5MmNmYWRlMWE0ODY5MGE0Zjc.gif
+graphs,algebra
+6,7,8,9,10,11,12,
+Shodor Education Foundation, Inc.
+interactive lesson
+2015-04-22T23:55Z
+Sierpinski''s Triangle
+Step through the generation of Sierpinski''s Triangle -- a fractal made from subdividing a triangle into four smaller triangles and cutting the middle one out. Explore number patterns in sequences and geometric properties of fractals.
+http://www.shodor.org/interactivate/activities/SierpinskiTriangle/
+http://www.shodor.org/media/N/2/Q/zYzYzZDhiM2IyZDJmNjY3MTNlOTA3NmFmODIzOWQ.gif
+discrete,number and operations,geometry,fractions
+3,4,5,6,7,8,9,10,11,12,
+Shodor Education Foundation, Inc.
+interactive lesson
+2015-04-22T23:55Z
+Adjustable Spinner
+Create a game spinner with variable sized sectors to look at experimental and theoretical probabilities. Parameters: Sizes of sectors, number of sectors, number of trials.
+http://www.shodor.org/interactivate/activities/AdjustableSpinner/
+http://www.shodor.org/media/M/z/h/kYzBlNDQ1YTVjMDZlNjg0Mzc4ZGMzMDZhYmU3MmI.gif
+discrete,probability,fractions,statistics
+3,4,5,6,7,8,9,10,11,12,
+Shodor Education Foundation, Inc.
+interactive lesson
+2015-04-22T23:55Z
+Number Base Clocks
+Visually explore counting and place value with different number bases, from base 2 to base 16, and up to the hundreds place using a clock like interface. The activity also allows you to look at the numbers on the clock in base 10 or in your other chosen base to explore the relationship between those values.
+http://www.shodor.org/interactivate/activities/NumberBaseClocks/
+http://www.shodor.org/media/N/G/Y/xMTljZDdiZjNjZTBkZmY5ZWE3ODQ3NzQ0YzhkOGI.gif
+discrete,number and operations
+3,4,5,6,7,8,9,10,11,12,
+Shodor Education Foundation, Inc.
+interactive lesson
+2015-04-22T23:55Z
+Fitted Normal Distribution
+This applet allows the user to experiment with randomly generated data sets at various sample sizes and standard deviations. Then, users can compare the distribution of the experimental data to the expected distribution.
+http://www.shodor.org/interactivate/activities/FittedNormalDistr/
+http://www.shodor.org/media/N/T/I/yY2VlMGJmZjRmZTg0ZjIyMjRlOTNhNmFjMTA5NjM.png
+statistics
+9,10,11,12,
+Shodor Education Foundation, Inc.
+interactive lesson
+2015-04-22T23:55Z
+Sequencer
+Learn about number patterns in sequences and recursions by specifying a starting number, multiplier, and add-on. The numbers in the sequence are displayed on a graph, and they are also listed below the graph.
+http://www.shodor.org/interactivate/activities/Sequencer/
+http://www.shodor.org/media/Y/2/R/iOWE3ODA5ZTM4ZjY5ZWJjYTYyM2UyMTBiZGI4YjA.gif
+discrete,number and operations,graphs,algebra
+6,7,8,9,10,11,12,
+Shodor Education Foundation, Inc.
+interactive lesson
+2015-04-22T23:55Z
+Function Revolution
+This activity allows the user to find the volume and surface area of various functions as they are rotated around axes. This applet can be used to practice finding integrals using the disk and washer methods of calculating volume.
+http://www.shodor.org/interactivate/activities/FunctionRevolution/
+http://www.shodor.org/media/N/2/Q/3MjNmN2VmODIzODVjMjA3YWJkNDU2NTdjNmZlODU.png
+calculus
+9,10,11,12,
+Shodor Education Foundation, Inc.
+interactive lesson
+2015-04-22T23:55Z
+Normal Distribution
+Change the standard deviation of an automatically generated normal distribution to create a new histogram. Observe how well the histogram fits the curve, and how areas under the curve correspond to the number of trials. Parameters: standard deviation, number of trials, class intervals.
+http://www.shodor.org/interactivate/activities/NormalDistribution/
+http://www.shodor.org/media/N/D/g/4ODBiMGVkYWNhODg3N2QyZDQyZTY3MGQ4NjMzNGM.gif
+graphs,statistics
+9,10,11,12,
+Shodor Education Foundation, Inc.
+interactive lesson
+2015-04-22T23:55Z
