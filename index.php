@@ -52,7 +52,7 @@
         <div class="col-md-2"></div>
       </div>
     </div>
-      <div class="col-md-12 plainSpaceInSearch"> </div>
+    <div class="col-md-12 plainSpaceInSearch"> </div>
     <!--for the refine results area-->
     <div class="row">
       <div class="col-md-12 ">
@@ -143,8 +143,7 @@
     </div>
     <!--for the actualsearch results-->
     <div class="secondPart row">
-      <div class="col-md-1" id="extraCol" >
-      </div>
+      <div class="col-md-1" id="extraCol" > </div>
       <div class="col-md-9" id="results">
         <div class="row">
           <div class="col-md-12">
@@ -157,26 +156,19 @@
   $sql="";
   if(empty($to_be_recovered_name))
   {
-	  $sql = "SELECT * FROM education";
+	  $result = mysqli_query($conn,"SELECT * FROM education");
   }
   else
   {
-	  print"Inside string given";
-  $sql = "SELECT * FROM education WHERE title LIKE '$to_be_recovered_name'";
+	  $result = mysqli_query($conn, "SELECT * FROM education WHERE title LIKE '%$to_be_recovered_name%'");
   }
-  //print "String is";
-  //print $to_be_recovered_name;
-  //$sql = "SELECT * FROM education";
-  $result = mysqli_query($conn, $sql);
-  //$counter = 0;
-  //print $counter;
   output($result);
 
 ?>
         </div>
       </div>
       <div class="col-md-2" id="similarResults" >
-        <div class="row">
+        <div class="row"> 
           <div class="col-md-12">
             <h2 id="head">SIMILAR RESULTS</h2>
           </div>
