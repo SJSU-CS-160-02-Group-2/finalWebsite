@@ -162,8 +162,41 @@
   }
   else
   {
-	  //Nick changes something here to get regex working.
-	  $result = mysqli_query($conn, "SELECT * FROM education WHERE (category LIKE '%$to_be_recovered_name%') OR (title LIKE '%$to_be_recovered_name%')");
+	  //Nick changes something here to get exclude from search feature working.
+      $keywords = preg_split("/[\s]+/", $to_be_recovered_name);
+      $count = count($keywords);
+      
+      $includedTerms="";
+      $excludedTerms="";
+      
+      $query = "SELECT * FROM education WHERE";
+
+      for ($i = 0; $i < $count; $i++) {
+        if ( strcmp( mb_substr($keywords[$i], 0, 1), "-") !=0 ) {
+            if(strlen($keywords[$i])>0)
+                $includedTerms = $includedTerms . " (category LIKE '%$keywords[$i]%') OR (title LIKE '%$keywords[$i]%') OR";
+        } else {
+            $term = mb_substr($keywords[$i], 1, strlen($keywords[$i])-1);
+            if(strlen($term)>0)
+                $excludedTerms= $excludedTerms . " (category NOT LIKE '%$term%') AND (title NOT LIKE '%$term%') AND";
+        }
+      }
+      if(strlen($includedTerms) > 0)
+        $includedTerms = mb_substr($includedTerms, 0, strlen($includedTerms)-strlen("OR") );
+        
+      
+      if(strlen($excludedTerms) > 0)
+        $excludedTerms = mb_substr($excludedTerms, 0, strlen($excludedTerms)-strlen("AND") );
+      
+      if(strlen($includedTerms) > 0 && strlen($excludedTerms) > 0 ){
+        $includedTerms = "(" . $includedTerms . ")";
+        $excludedTerms = "(" . $excludedTerms . ")";
+        $query = $query . $includedTerms . " AND " . $excludedTerms;
+      } else {
+        $query = $query . $includedTerms . $excludedTerms;  
+      }
+      
+	  $result = mysqli_query($conn, $query);
   }
   //Change the following to get similar features working properly-Alvin
   $similarResults =  mysqli_query($conn, "SELECT * FROM education WHERE (category LIKE '%$to_be_recovered_name%') OR (title LIKE '%$to_be_recovered_name%')");
