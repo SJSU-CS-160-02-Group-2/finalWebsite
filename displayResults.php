@@ -12,6 +12,11 @@ $counter = 0;
         {
 		$counter = $counter+1;
         	$title =  $row["title"];
+		while(strlen($title)>27)
+		{
+			$pos = strrpos($title," ");
+			$title = substr($title , 0,$pos); 
+		}
 	    	$temp = $row["lesson_link"];
 		$link = $row["lesson_image"];
 		print "		<div id=activtyIconSec class=col-md-3>
