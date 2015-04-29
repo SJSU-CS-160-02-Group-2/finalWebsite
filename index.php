@@ -212,6 +212,7 @@
 	}
 	$sql .= ")";
   }
+  //need more if statements when adding grade
   if(empty($to_be_recovered_name) && empty($selected_career))
   {
 	  $result = mysqli_query($conn, "SELECT * FROM education");
