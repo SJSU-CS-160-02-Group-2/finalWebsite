@@ -224,7 +224,8 @@ $selected_grade = $_POST['gradeLevel'];
 
 	if (IsValueChecked('gradeLevel', 'grade_k')) {
 		if($career_selected) {
-			$sql .= " AND ";
+			$sql .= ")";
+			$sql .= " AND (";
 			$career_selected = false;
 		}
 		elseif ($multiple_checked) {
@@ -234,84 +235,144 @@ $selected_grade = $_POST['gradeLevel'];
 		$multiple_checked = true;
 	}
 	if (IsValueChecked('gradeLevel', 'grade_1')) {
-		if ($multiple_checked) {
+		if($career_selected) {
+			$sql .= ")";
+			$sql .= " AND (";
+			$career_selected = false;
+		}
+		elseif ($multiple_checked) {
 			$sql .= " OR ";
 		}
 		$sql .= "(FIND_IN_SET('1', student_grades) > '0')";
 		$multiple_checked = true;
 	}
 	if (IsValueChecked('gradeLevel', 'grade_2')) {
-		if ($multiple_checked) {
+		if($career_selected) {
+			$sql .= ")";
+			$sql .= " AND (";
+			$career_selected = false;
+		}
+		elseif ($multiple_checked) {
 			$sql .= " OR ";
 		}
 		$sql .= "(FIND_IN_SET('2', student_grades) > '0')";
 		$multiple_checked = true;
 	}
 	if (IsValueChecked('gradeLevel', 'grade_3')) {
-		if ($multiple_checked) {
+		if($career_selected) {
+			$sql .= ")";
+			$sql .= " AND (";
+			$career_selected = false;
+		}
+		elseif ($multiple_checked) {
 			$sql .= " OR ";
 		}
 		$sql .= "(FIND_IN_SET('3', student_grades) > '0')";
 		$multiple_checked = true;
 	}
 	if (IsValueChecked('gradeLevel', 'grade_4')) {
-		if ($multiple_checked) {
+		if($career_selected) {
+			$sql .= ")";
+			$sql .= " AND (";
+			$career_selected = false;
+		}
+		elseif ($multiple_checked) {
 			$sql .= " OR ";
 		}
 		$sql .= "(FIND_IN_SET('4', student_grades) > '0')";
 		$multiple_checked = true;
 	}
 	if (IsValueChecked('gradeLevel', 'grade_5')) {
-		if ($multiple_checked) {
+		if($career_selected) {
+			$sql .= ")";
+			$sql .= " AND (";
+			$career_selected = false;
+		}
+		elseif ($multiple_checked) {
 			$sql .= " OR ";
 		}
 		$sql .= "(FIND_IN_SET('5', student_grades) > '0')";
 		$multiple_checked = true;
 	}
 	if (IsValueChecked('gradeLevel', 'grade_6')) {
-		if ($multiple_checked) {
+		if($career_selected) {
+			$sql .= ")";
+			$sql .= " AND (";
+			$career_selected = false;
+		}
+		elseif ($multiple_checked) {
 			$sql .= " OR ";
 		}
 		$sql .= "(FIND_IN_SET('6', student_grades) > '0')";
 		$multiple_checked = true;
 	}
 	if (IsValueChecked('gradeLevel', 'grade_7')) {
-		if ($multiple_checked) {
+		if($career_selected) {
+			$sql .= ")";
+			$sql .= " AND (";
+			$career_selected = false;
+		}
+		elseif ($multiple_checked) {
 			$sql .= " OR ";
 		}
 		$sql .= "(FIND_IN_SET('7', student_grades) > '0')";
 		$multiple_checked = true;
 	}
 	if (IsValueChecked('gradeLevel', 'grade_8')) {
-		if ($multiple_checked) {
+		if($career_selected) {
+			$sql .= ")";
+			$sql .= " AND (";
+			$career_selected = false;
+		}
+		elseif ($multiple_checked) {
 			$sql .= " OR ";
 		}
 		$sql .= "(FIND_IN_SET('8', student_grades) > '0')";
 		$multiple_checked = true;
 	}
 	if (IsValueChecked('gradeLevel', 'grade_9')) {
-		if ($multiple_checked) {
+		if($career_selected) {
+			$sql .= ")";
+			$sql .= " AND (";
+			$career_selected = false;
+		}
+		elseif ($multiple_checked) {
 			$sql .= " OR ";
 		}
 		$sql .= "(FIND_IN_SET('9', student_grades) > '0')";
 		$multiple_checked = true;
 	}
 	if (IsValueChecked('gradeLevel', 'grade_10')) {
-		if ($multiple_checked) {
+		if($career_selected) {
+			$sql .= ")";
+			$sql .= " AND (";
+			$career_selected = false;
+		}
+		elseif ($multiple_checked) {
 			$sql .= " OR ";
 		}
 		$sql .= "(FIND_IN_SET('10', student_grades) > '0')";
 		$multiple_checked = true;
 	}
 	if (IsValueChecked('gradeLevel', 'grade_11')) {
-		if ($multiple_checked) {
+		if($career_selected) {
+			$sql .= ")";
+			$sql .= " AND (";
+			$career_selected = false;
+		}
+		elseif ($multiple_checked) {
 			$sql .= " OR ";
 		}
 		$sql .= "(FIND_IN_SET('11', student_grades) > '0')";
 		$multiple_checked = true;
 	}
 	if (IsValueChecked('gradeLevel', 'grade_12')) {
-		if ($multiple_checked) {
+		if($career_selected) {
+			$sql .= ")";
+			$sql .= " AND (";
+			$career_selected = false;
+		}
+		elseif ($multiple_checked) {
 			$sql .= " OR ";
 		}
 		$sql .= "(FIND_IN_SET('12', student_grades) > '0')";
@@ -327,7 +388,7 @@ $selected_grade = $_POST['gradeLevel'];
   {
 	  $result = mysqli_query($conn, "SELECT * FROM education");
   }
-  else if (empty($to_be_recovered_name)) {
+  else if (empty($to_be_recovered_name)){
 	$result = mysqli_query($conn, $sql);
   }
    else {
