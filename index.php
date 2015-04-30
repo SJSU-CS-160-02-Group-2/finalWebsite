@@ -168,12 +168,13 @@
 		}
 		return false;
 	}
-  $to_be_recovered_name=$_POST['searchname'];
-  //Mike changes code here to get search by grade level working.
+$to_be_recovered_name=isset($_POST['searchname'])?$_POST['searchname'] : '';
   
-
-$selected_grade = $_POST['gradeLevel'];
-  $selected_career = $_POST['career'];
+//Mike changes code here to get search by grade level working.
+	
+$selected_grade = isset($_POST['gradeLevel'])?$_POST['gradeLevel'] : [];
+  
+$selected_career = isset($_POST['career'])?$_POST['career']:[];
   $sql = "SELECT * FROM education WHERE ";
   $multiple_selected = false;
   $career_selected = false;
