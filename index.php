@@ -168,12 +168,22 @@
 		}
 		return false;
 	}
+<<<<<<< HEAD
   $to_be_recovered_name=$_POST['searchname'];
   //Mike changes code here to get search by grade level working.
   
 
 $selected_grade = $_POST['gradeLevel'];
   $selected_career = $_POST['career'];
+=======
+$to_be_recovered_name=isset($_POST['searchname'])?$_POST['searchname'] : '';
+  
+//Mike changes code here to get search by grade level working.
+	
+$selected_grade = isset($_POST['gradeLevel'])?$_POST['gradeLevel'] : [];
+  
+$selected_career = isset($_POST['career'])?$_POST['career']:[];
+>>>>>>> origin/master
   $sql = "SELECT * FROM education WHERE ";
   $multiple_selected = false;
   $career_selected = false;
@@ -387,6 +397,7 @@ $selected_grade = $_POST['gradeLevel'];
   if(empty($to_be_recovered_name) && empty($selected_career) && empty($selected_grade))
   {
 <<<<<<< HEAD
+<<<<<<< HEAD
 	  //Nick changes something here to get exclude from search feature working.
       $keywords = preg_split("/[\s]+/", $to_be_recovered_name);
       $count = count($keywords);
@@ -440,6 +451,25 @@ $selected_grade = $_POST['gradeLevel'];
 	  $includedTerms="";
 	  $excludedTerms="";
 
+=======
+	  $result = mysqli_query($conn, "SELECT * FROM education");
+  }
+  else if (empty($to_be_recovered_name)){
+	$result = mysqli_query($conn, $sql);
+  }
+   else {
+	  //Nick changes something here to get regex working.
+	  if ($multiple_selected) {
+		$sql .= " AND ";
+	  }
+	  $sql .= "(";
+	  $keywords = preg_split("/[\s]+/", $to_be_recovered_name);
+	  $count = count($keywords);
+	  
+	  $includedTerms="";
+	  $excludedTerms="";
+
+>>>>>>> origin/master
 	  for ($i = 0; $i < $count; $i++) {
 		if ( strcmp( mb_substr($keywords[$i], 0, 1), "-") !=0 ) {
 			if(strlen($keywords[$i])>0)
@@ -469,7 +499,10 @@ $selected_grade = $_POST['gradeLevel'];
 	  //uncomment to see sql statement (for debugging)
 	  //print "<p id=main>$sql</p>";
 	  $result = mysqli_query($conn, $sql);
+<<<<<<< HEAD
 >>>>>>> MikeBranch
+=======
+>>>>>>> origin/master
   }
   //Change the following to get similar features working properly-Alvin
   $similarResults =  mysqli_query($conn, "SELECT * FROM education WHERE (category LIKE '%$to_be_recovered_name%') OR (title LIKE '%$to_be_recovered_name%')");
