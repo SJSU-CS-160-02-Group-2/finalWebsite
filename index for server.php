@@ -177,9 +177,9 @@
 		return $A . $middle . $B;
 	}
 	$item = $_POST;
-	$to_be_recovered_name=isset($item['searchname'])?$item['searchname']:"";
-	$selected_grade = isset($item['gradeLevel'])?$item['gradeLevel']:[];
-	$selected_career =isset($item['career'])?$item['career']:[];
+	$to_be_recovered_name=$item['searchname'];
+	$selected_grade = $item['gradeLevel'];
+	$selected_career =$item['career'];
 	$careerSql = "";
 	$gradeSql = "";
 	$termsSql = "";

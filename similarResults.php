@@ -9,13 +9,12 @@
 
 <?php
 
-function outputSimilarResults($result)
+function outputSimilarResults($result,$num)
 {
 	
-	       
-          
-	//$counter=0;
-		//$counter = $counter+1;
+	              
+  $counter=0;
+  //$counter = $counter+1;
   //$to_be_recovered_name=$_POST['searchname'];
   //$sql = "SELECT * FROM education where title ='$to_be_recovered_name'";
   //$counter = 0;
@@ -23,7 +22,7 @@ function outputSimilarResults($result)
   if ($result)
   {
 	  //and $counter<8
-        while ($row = mysqli_fetch_array($result) )
+        while ($row = mysqli_fetch_array($result) and $counter<$num)
         {
 	  	
         $title =  $row["title"];
@@ -37,7 +36,7 @@ function outputSimilarResults($result)
 		</div>
         ";
 	    //<a href=$temp style=text-decoration:none>
-	    //$counter=$counter+1;
+	    $counter=$counter+1;
         }
         mysqli_free_result($result);
       }
