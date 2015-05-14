@@ -26,12 +26,7 @@
       <div class="col-md-2" id="name">CHIMERA</div>
       <!--Search bar div-->
       <div class="col-md-8"></div>
-      <div class="col-md-2">
-        <div class="col-md-4  text-center"></div>
-        <div class="col-md-3  text-center"></div>
-        <div class="col-md-3  text-center button-design" id="mail-button"><a href="mailto:27aishwarya@gmail.com"><img src="mailB.png" class="icon-size"/></a></div>
-        <div class="col-md-2  text-center"></div>
-      </div>
+      <div class="col-md-2"></div>
     </div>
     <div class="row" id="header">
       <div class="col-md-12 plainSpaceInSearch"> </div>
@@ -44,7 +39,7 @@
           <div class="row">
             <div class="col-md-2"></div>
             <div class="col-md-8">
-              <input type="text" name=searchname placeholder="Type any activity title or subject" id="searchBar">
+              <input type="text" name=searchname title="Ex: physics - newton will return all physics activities not relating to Newton" placeholder="Activity/subject [- activity/subject to remove an activity]" id="searchBar">
               <input type="submit" name=searchButton value="S" id="searchButton" >
             </div>
             <div class="col-md-2"></div>
@@ -177,9 +172,9 @@
 		return $A . $middle . $B;
 	}
 	$item = $_POST;
-	$to_be_recovered_name=isset($item['searchname'])?$item['searchname']:"";
-	$selected_grade = isset($item['gradeLevel'])?$item['gradeLevel']:[];
-	$selected_career =isset($item['career'])?$item['career']:[];
+	$to_be_recovered_name=$item['searchname'];
+	$selected_grade = $item['gradeLevel'];
+	$selected_career =$item['career'];
 	$careerSql = "";
 	$gradeSql = "";
 	$termsSql = "";

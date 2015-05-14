@@ -27,7 +27,11 @@ $counter = 0;
 			<p id=activityText>$title</p>		
 			</div>
         		";
+		
         	}
+		print "<div class='col-md-12 row text-center' id=footer>
+	<a href=#main id=footer>Return to top</a>
+	</div>";
 	if($counter==0){
 		print "<p id=main> We do not have any activities with this title.</p>";
 	}
