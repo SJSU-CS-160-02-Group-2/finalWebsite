@@ -22,23 +22,26 @@ $counter = 0;
 			}
 	    		$temp = $row["lesson_link"];
 			$link = $row["lesson_image"];
-			print "		<div id=activtyIconSec class=col-md-3>
+			print "		<div id=activtyIconSec class='col-md-3 text-center'>
 			<a href=$temp><img src=$link id=activityIconImage>	</a>
 			<p id=activityText>$title</p>		
 			</div>
         		";
 		
         	}
-		print "<div class='col-md-12 row text-center' id=footer>
+	if($counter==0){
+		print "<p id=main class='text-center'> We do not have any activities with this title.</p>";
+	}
+	else
+	{
+	print "<div class='col-md-12 row text-center' id=footer>
 	<a href=#main id=footer>Return to top</a>
 	</div>";
-	if($counter==0){
-		print "<p id=main> We do not have any activities with this title.</p>";
 	}
         mysqli_free_result($result);
    }
    else{
-		print "<p id=main> We do not have any activities with this title.</p>";
+		print "<p id=main class='text-center'> We do not have any activities with this title.</p>";
 	}
 	
 	

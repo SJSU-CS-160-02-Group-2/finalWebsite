@@ -34,18 +34,10 @@
     <div class="row" id="searchBarDiv">
     <div class="row">
       <div class="col-md-12">
-        <div class="col-md-2"></div>
-        <div class="col-md-8">
-          <div class="row">
-            <div class="col-md-2"></div>
-            <div class="col-md-8">
-              <input type="text" name=searchname title="Ex: physics - newton will return all physics activities not relating to Newton" placeholder="Activity/subject [- activity/subject to remove an activity]" id="searchBar">
-              <input type="submit" name=searchButton value="S" id="searchButton" >
-            </div>
-            <div class="col-md-2"></div>
-          </div>
-        </div>
-        <div class="col-md-2"></div>
+        <div class="col-md-3"></div>
+        <div class="col-md-5"><input type="text" name=searchname title="Ex: physics -newton will return all physics activities not relating to Newton" placeholder="Activity/subject [-activity/subject to remove an activity]" id="searchBar"></div>
+				<div class="col-md-1"><input type="submit" name=searchButton value="S" id="searchButton" ></div>
+        <div class="col-md-3"></div>
       </div>
     </div>
     <div class="col-md-12 plainSpaceInSearch"> </div>
@@ -139,8 +131,7 @@
     </div>
     <!--for the actualsearch results-->
     <div class="secondPart row">
-    <div class="col-md-1" id="extraCol" > </div>
-    <div class="col-md-9" id="results">
+    <div class="col-md-10" id="results">
     <div class="row">
       <div class="col-md-12">
         <h2 class="text-center" id="main">SEARCH RESULTS</h2>
@@ -235,7 +226,7 @@
 	if (!empty($to_be_recovered_name)){
 		$keywords = preg_split("/[\s]+/", $to_be_recovered_name);
 		$count = count($keywords);
-		
+
 		$excludedTerms="";
 		for ($i = 0; $i < $count; $i++) {
 			if ( strcmp( mb_substr($keywords[$i], 0, 1), "-") !=0 ) {
@@ -247,7 +238,7 @@
 					$excludedTerms = concatBOOL($excludedTerms, " AND ", "(category NOT LIKE '%$term%') AND (title NOT LIKE '%$term%')");
 			}
 		}
-		
+
 		if(strlen($includedTerms) > 0 && strlen($excludedTerms) > 0 ) {
 			$includedTerms = "(" . $includedTerms . ")";
 			$excludedTerms = "(" . $excludedTerms . ")";
@@ -312,13 +303,17 @@
     $similarResults = mysqli_query($conn, "SELECT * FROM education"); //No results? Grab everything.
   }
   $numSimilarResults = mysqli_num_rows($similarResults);
+	$size = mysqli_num_rows($result);
+	if($size !=0)
+	{	print "<p class='text-center' id='head'>About $size results</p>";
+	}
 	output($result);
 	 print "</div>
 		</div>
 		<div class=col-md-2 id=similarResults >
-		<div class=row> 
+		<div class=row>
 			<div class=col-md-12>
-			<h2 id=head>SIMILAR RESULTS</h2>
+			<h2 id=head2>SUGGESTED CONTENT</h2>
 			</div>
 		</div>
 		<div class=row>";
